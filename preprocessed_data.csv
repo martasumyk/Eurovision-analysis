@@ -1,0 +1,484 @@
+song_name,artist_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,year,country,language,style,gender,main_singers,backing_dancers,backing_singers,backing_instruments,semi_place,eng_lan,inc_eng_lan,Male,Female,Pop,Rock,Ballad,Traditional,Dance,is_final
+Queen of Kings,Alessandra,0.563,0.908,4,-4.25,0,0.0868,0.0696,0.0,0.328,0.171,125.972,2023,Norway,English,Pop,Female,1,4,0,0,6.0,1,0,0,1,1,0,0,0,0,1
+Dance (Our Own Party),The Busker,0.695,0.778,5,-5.634,0,0.0407,0.0217,0.00359,0.182,0.824,103.015,2023,Malta,English,Pop,Male,1,0,0,2,15.0,1,0,1,0,1,0,0,0,0,0
+Samo mi se spava,Luke Black,0.551,0.73,9,-8.288,1,0.0575,0.00839,0.00348,0.443,0.124,103.031,2023,Serbia,"Serbian, English",Pop,Male,1,4,0,0,10.0,0,1,1,0,1,0,0,0,0,1
+Aija,Sudden Lights,0.556,0.548,9,-7.513,0,0.0694,0.0523,0.00011,0.0781,0.398,160.071,2023,Latvia,English,Rock,Male,1,0,0,3,11.0,1,0,1,0,0,1,0,0,0,0
+Ai coraï¿½ï¿½o,"Sergio Assad, Thomas Ford, Mario Castelnuovo-Tedesco, Vinzenz Schuster, Giles Farnaby, Dusan Bogdanovic, Duo GolzDanilov",0.354,0.333,9,-17.127,1,0.0302,0.956,0.873,0.108,0.354,142.859,2023,Portugal,Portuguese,Pop,Female,1,4,0,0,9.0,0,0,0,1,1,0,0,0,0,1
+We Are One,Various Artists,0.58,0.46,7,-15.461,1,0.0554,0.643,6.52e-06,0.126,0.762,79.972,2023,Ireland,English,Rock,Male,1,0,0,3,12.0,1,0,1,0,0,1,0,0,0,0
+Mama ï¿½C!,The Mamas & The Papas,0.408,0.43,2,-11.287,1,0.0342,0.823,0.0,0.153,0.621,107.455,2023,Croatia,Croatian,Pop,Male,1,0,4,0,8.0,0,0,1,0,1,0,0,0,0,1
+Watergun,1990nowhere,0.722,0.754,6,-5.28,0,0.0369,0.035,0.0,0.0846,0.9,121.037,2023,Switzerland,English,Ballad,Male,1,4,0,0,7.0,1,0,1,0,0,0,1,0,0,1
+Unicorn,ITS MUSIC,0.793,0.62,5,-7.09,1,0.0384,0.318,0.0,0.146,0.801,123.99,2023,Israel,English,Pop,Female,1,5,0,0,3.0,1,0,0,1,1,0,0,0,0,1
+Soarele si luna,Pasha Parfeni,0.619,0.857,8,-5.166,1,0.137,0.36,0.0,0.181,0.335,124.957,2023,Moldova,Romanian,Traditional,Male,1,0,2,3,5.0,0,0,1,0,0,0,0,1,0,1
+Tattoo,Loreen,0.545,0.779,3,-6.235,0,0.0751,0.243,1.66e-06,0.123,0.303,150.002,2023,Sweden,English,Pop,Female,1,0,0,0,2.0,1,0,0,1,1,0,0,0,0,1
+Tell Me More,"Beowülf, Luxx, E.friend",0.405,0.377,2,-17.39,1,0.147,0.779,0.0,0.318,0.509,133.838,2023,Azerbaijan,English,Pop,Male,2,0,0,0,14.0,1,0,1,0,1,0,0,0,0,0
+My Sister's Crown,Vesna,0.545,0.919,4,-5.879,0,0.159,0.0512,0.0,0.369,0.508,149.869,2023,Czech Republic,"English,ï¿½Ukrainian,ï¿½Czech,ï¿½Bulgarian",Pop,Female,6,0,0,0,4.0,0,1,0,1,1,0,0,0,0,1
+Burning Daylight,"Mia Nicolai, Dion Cooper",0.282,0.433,3,-8.538,1,0.0353,0.584,0.0,0.11,0.288,71.294,2023,The Netherlands,English,Ballad,Mix,2,0,0,0,13.0,1,0,0,0,0,0,1,0,0,0
+Cha Cha Cha,Käärijä,0.718,0.791,2,-5.572,1,0.0447,0.00207,0.00292,0.111,0.743,155.082,2023,Finland,Finnish,Pop,Male,1,4,0,0,1.0,0,0,1,0,1,0,0,0,0,1
+Breaking My Heart,Mitchell Tenpenny,0.657,0.883,1,-4.863,0,0.0349,0.0476,0.0,0.144,0.703,111.976,2023,Denmark,English,Pop,Male,1,0,0,0,14.0,1,0,1,0,1,0,0,0,0,0
+Future Lover,Thee Sacred Souls,0.607,0.468,11,-7.587,1,0.0271,0.088,0.000155,0.0909,0.806,147.57,2023,Armenia,"English,ï¿½Armenian",Ballad,Female,1,0,0,0,6.0,0,1,0,1,0,0,1,0,0,1
+D.G.T. (Off and On),Theodor Andrei,0.681,0.746,9,-6.311,0,0.0348,0.222,0.0,0.246,0.84,109.998,2023,Romania,"Romanian, English",Pop,Male,1,0,0,0,15.0,0,1,1,0,1,0,0,0,0,0
+Bridges,NEEDTOBREATHE,0.654,0.595,7,-5.354,0,0.0293,0.192,1.27e-05,0.132,0.207,101.032,2023,Estonia,English,Ballad,Female,1,0,0,0,10.0,1,0,0,1,0,0,1,0,0,1
+Because of You,Kelly Clarkson,0.583,0.584,5,-5.362,0,0.0314,0.254,0.0,0.123,0.136,140.039,2023,Belgium,English,Pop,Male,1,1,3,0,8.0,1,0,1,0,1,0,0,0,0,1
+Break a Broken Heart,SaraLisa,0.565,0.708,2,-6.423,1,0.0266,0.219,0.0,0.177,0.568,172.016,2023,Cyprus,English,Ballad,Male,1,0,0,0,7.0,1,0,1,0,0,0,1,0,0,1
+Power,Little Mix,0.566,0.855,7,-4.016,1,0.211,0.0372,0.000157,0.181,0.517,172.966,2023,Iceland,English,Pop,Female,1,0,0,0,11.0,1,0,0,1,1,0,0,0,0,0
+What They Say,Nettspend,0.587,0.59,9,-9.408,1,0.299,0.0226,0.000103,0.0994,0.279,120.062,2023,Greece,English,Pop,Male,1,0,0,0,13.0,1,0,1,0,1,0,0,0,0,0
+Solo,Future,0.784,0.486,5,-6.497,0,0.0475,0.0538,0.497,0.101,0.0894,110.964,2023,Poland,English,Pop,Female,1,4,0,0,3.0,1,0,0,1,1,0,0,0,0,1
+Carpe Diem,"Arodes, Komashov",0.766,0.793,11,-8.996,0,0.0505,0.0024,0.889,0.0439,0.155,121.991,2023,Slovenia,Slovene,Rock,Male,1,0,0,4,5.0,0,0,1,0,0,1,0,0,0,1
+Echo,Crusher-P,0.637,0.906,3,-3.099,0,0.0522,0.082,0.0,0.125,0.36,140.025,2023,Georgia,English,Ballad,Female,1,0,0,0,12.0,1,0,0,1,0,0,1,0,0,0
+Like an Animal,RÜFÜS DU SOL,0.71,0.748,9,-6.244,0,0.0305,0.0341,0.000105,0.0897,0.38,119.994,2023,San Marino,English,Rock,Male,1,0,0,3,16.0,1,0,1,0,0,1,0,0,0,0
+Who the Hell Is Edgar?,"TEYA, SALENA",0.688,0.644,11,-7.629,0,0.0596,0.0234,0.00202,0.0995,0.508,145.926,2023,Austria,English,Pop,Female,2,4,0,0,2.0,1,0,0,1,1,0,0,0,0,1
+Duje,"Albina Kelmendi, Familja Kelmendi",0.639,0.804,2,-5.57,0,0.192,0.046,0.0,0.129,0.434,109.911,2023,Albania,Albanian,Traditional,Female,1,0,5,0,9.0,0,0,0,1,0,0,0,1,0,1
+Stay,Various Artists,0.382,0.836,9,-5.661,0,0.403,0.0725,0.0,0.23,0.444,201.776,2023,Lithuania,English,Ballad,Female,1,0,4,0,4.0,1,0,0,1,0,0,1,0,0,1
+Promise,Laufey,0.263,0.112,5,-16.55,1,0.0344,0.935,8.5e-05,0.0565,0.0903,76.244,2023,Australia,English,Rock,Male,1,0,0,4,1.0,1,0,1,0,0,1,0,0,0,1
+Sekret,Se'Kret,0.725,0.618,0,-8.197,1,0.219,0.0261,0.0,0.109,0.729,117.668,2022,Albania,"Albanian, English",Pop,Female,1,5,0,0,12.0,0,1,0,1,1,0,0,0,0,0
+Eat Your Salad,Citi Zēni,0.752,0.693,11,-7.731,0,0.169,0.0121,0.0,0.335,0.591,115.031,2022,Latvia,English,Pop,Male,1,0,0,4,14.0,1,0,1,0,1,0,0,0,0,0
+Sentimentai,Monika LIU,0.675,0.555,0,-7.995,1,0.0325,0.0902,0.00411,0.314,0.5,93.075,2022,Lithuania,Lithuanian,Ballad,Female,1,0,0,0,7.0,0,0,0,1,0,0,1,0,0,1
+Boys Do Cry,Piff Marti,0.872,0.402,11,-12.801,0,0.314,0.532,1.07e-05,0.18,0.573,94.993,2022,Switzerland,English,Ballad,Male,1,0,0,0,9.0,1,0,1,0,0,0,1,0,0,1
+Disko,"The La Planta, BM, Alejo Isakk",0.822,0.519,9,-7.183,1,0.136,0.178,0.0,0.0814,0.779,89.962,2022,Slovenia,Slovene,Pop,Male,1,0,0,4,17.0,0,0,1,0,1,0,0,0,0,0
+Stefania,"KALUSH, Kalush Orchestra",0.832,0.817,2,-5.182,1,0.0422,0.145,0.00169,0.115,0.324,104.985,2022,Ukraine,Ukrainian,Traditional,Male,1,1,2,2,1.0,0,0,1,0,0,0,0,1,0,1
+Intention,Justin Bieber,0.811,0.553,9,-6.644,1,0.0552,0.317,0.0,0.105,0.86,148.014,2022,Bulgaria,English,Rock,Male,1,0,0,5,16.0,1,0,1,0,0,1,0,0,0,0
+De diepte,S10,0.502,0.397,2,-8.819,0,0.0282,0.378,3.44e-05,0.143,0.159,90.043,2022,Netherlands,Dutch,Ballad,Female,1,0,0,0,2.0,0,0,0,1,0,0,1,0,0,1
+Trenuletul,Various Artists,0.701,0.884,0,-3.49,1,0.142,0.406,2.44e-05,0.319,0.955,141.975,2022,Moldova,"Romanian, English",Traditional,Male,1,0,0,5,8.0,0,1,1,0,0,0,0,1,0,1
+"Saudade, saudade",Various Artists,0.644,0.337,10,-11.261,0,0.0357,0.681,0.000208,0.108,0.376,82.992,2022,Portugal,"English,ï¿½Portuguese",Ballad,Female,6,0,0,0,4.0,0,1,0,1,0,0,1,0,0,1
+Guilty Pleasure,Kenny Chesney,0.747,0.746,5,-6.411,1,0.0309,0.118,0.000202,0.0862,0.792,106.031,2022,Croatia,"English,ï¿½Croatian",Ballad,Female,1,3,0,0,11.0,0,1,0,1,0,0,1,0,0,0
+The Show,"Doug E. Fresh, Doug E. Fresh & The Get Fresh Crew",0.793,0.959,1,-9.383,1,0.122,0.0119,0.000126,0.383,0.363,100.884,2022,Denmark,English,Rock,Female,1,0,0,3,13.0,1,0,0,1,0,1,0,0,0,0
+Halo,Beyoncé,0.508,0.72,11,-5.908,0,0.0628,0.272,0.0,0.0563,0.472,79.983,2022,Austria,English,Dance,Female,1,0,0,0,15.0,1,0,0,1,0,0,0,0,1,0
+Meo aekkandi sol,"LEDNA Music, Bóas Gunnarsson",0.412,0.518,4,-4.956,1,0.0259,0.374,0.0,0.187,0.386,161.829,2022,Iceland,Icelandic,Traditional,Female,3,0,0,1,10.0,0,0,0,1,0,0,0,1,0,1
+Die Together,K3NT4!,0.445,0.713,6,-9.464,1,0.0333,1.73e-05,0.0155,0.113,0.136,85.01,2022,Greece,English,Ballad,Female,1,0,0,0,3.0,1,0,0,1,0,0,1,0,0,1
+Give That Wolf a Banana,Subwoolfer,0.737,0.526,7,-10.101,0,0.0411,0.2,2.78e-06,0.0884,0.554,124.075,2022,Norway,English,Pop,Male,2,4,0,0,6.0,1,0,1,0,1,0,0,0,0,1
+Snap,Rosa Linn,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2022,Armenia,English,Ballad,Female,1,0,0,0,5.0,1,0,0,1,0,0,1,0,0,1
+Jezebel,Sade,0.579,0.226,2,-12.419,0,0.029,0.802,6.94e-05,0.124,0.202,92.43,2022,Finland,English,Rock,Male,1,0,0,3,7.0,1,0,1,0,0,1,0,0,0,1
+I.M,Kodak Black,0.79,0.663,8,-8.074,0,0.156,0.304,0.0,0.0892,0.919,130.97,2022,Israel,English,Pop,Male,1,4,0,0,13.0,1,0,1,0,1,0,0,0,0,0
+In corpore sano,Konstrakta,0.922,0.705,0,-7.457,1,0.0841,0.00641,1.47e-05,0.169,0.629,135.944,2022,Serbia,"Serbian,ï¿½Latin",Traditional,Female,1,5,0,0,3.0,0,0,0,1,0,0,0,1,0,1
+Fade to Black,Metallica,0.256,0.929,7,-6.667,1,0.113,0.00311,0.201,0.11,0.278,113.47,2022,Azerbaijan,English,Ballad,Male,1,1,0,0,10.0,1,0,1,0,0,0,1,0,0,1
+Lock Me In,Hojean,0.587,0.559,10,-5.095,0,0.0362,0.005,4.33e-05,0.0956,0.787,124.005,2022,Georgia,English,Rock,Male,1,0,0,3,18.0,1,0,1,0,0,1,0,0,0,0
+I Am What I Am,King Von,0.798,0.673,1,-5.628,1,0.289,0.0746,0.0,0.126,0.405,141.12,2022,Malta,English,Pop,Female,1,4,0,0,16.0,1,0,0,1,1,0,0,0,0,0
+Stripper,Migos,0.953,0.782,1,-4.443,1,0.214,0.0507,0.0,0.0785,0.823,132.947,2022,San Marino,"Italian, English",Rock,Male,1,0,0,5,14.0,0,1,1,0,0,1,0,0,0,0
+Not the Same,The Strokes,0.353,0.613,9,-5.9,1,0.031,0.384,0.0123,0.103,0.282,177.375,2022,Australia,English,Ballad,Male,1,0,0,0,2.0,1,0,1,0,0,0,1,0,0,1
+Ela,Sia,0.421,0.791,9,-4.998,1,0.0496,0.0117,1.48e-05,0.146,0.499,130.075,2022,Cyprus,"English,ï¿½Greek",Pop,Female,1,2,0,0,12.0,0,1,0,1,1,0,0,0,0,0
+That's Rich,Various Artists,0.64,0.3,5,-10.257,1,0.139,0.576,0.0,0.199,0.46,133.949,2022,Ireland,English,Pop,Female,1,4,0,0,15.0,1,0,0,1,1,0,0,0,0,0
+Circles,Post Malone,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,2022,North Macedonia,English,Ballad,Female,1,0,0,0,11.0,1,0,0,1,0,0,1,0,0,0
+Hope,XXXTENTACION,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,2022,Estonia,English,Pop,Male,1,0,0,0,5.0,1,0,1,0,1,0,0,0,0,1
+Llamame,Adolescent's Orquesta,0.798,0.653,5,-9.586,0,0.0531,0.442,2.64e-06,0.191,0.967,109.683,2022,Romania,"English,ï¿½Spanish",Pop,Male,1,4,0,0,9.0,0,1,1,0,1,0,0,0,0,1
+River,Bishop Briggs,0.733,0.477,2,-6.737,0,0.0687,0.302,2.97e-06,0.0579,0.545,62.507,2022,Poland,English,Ballad,Male,1,4,0,0,6.0,1,0,1,0,0,0,1,0,0,1
+Breathe,Yeat,0.771,0.541,11,-13.0,1,0.0612,0.0275,0.881,0.105,0.106,118.064,2022,Montenegro,"English, Italian",Ballad,Female,1,0,0,0,17.0,0,1,0,1,0,0,1,0,0,0
+Miss You,Various Artists,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.00107,0.146,0.199,145.007,2022,Belgium,English,Pop,Male,1,4,0,0,8.0,1,0,1,0,1,0,0,0,0,1
+Hold Me Closer,"Elton John, Britney Spears",0.667,0.75,0,-4.602,1,0.0906,0.0746,0.000198,0.197,0.486,126.041,2022,Sweden,English,Ballad,Female,1,0,0,0,1.0,1,0,0,1,0,0,1,0,0,1
+Lights Off,Bandiicam,0.486,0.812,2,-9.59,0,0.523,0.0504,0.0,0.221,0.788,141.544,2022,Czech Republic,English,Dance,Female,1,0,0,2,4.0,1,0,0,1,0,0,0,0,1,1
+Discoteque,The King Of Beats,0.803,0.626,7,-9.556,1,0.128,0.356,0.938,0.11,0.97,130.988,2021,Lithuania,English,Dance,Male,1,2,2,2,4.0,1,0,1,0,0,0,0,0,1,1
+Amen,for KING & COUNTRY,0.64,0.469,7,-8.718,1,0.0412,0.00758,0.000453,0.0711,0.305,90.001,2021,Slovenia,English,Ballad,Female,1,0,0,0,13.0,1,0,0,1,0,0,1,0,0,0
+Russian Woman,Manizha,0.89,0.701,4,-7.061,0,0.194,0.204,0.0,0.0741,0.652,102.001,2021,Russia,"Russian, English",Traditional,Female,1,0,4,0,3.0,0,1,0,1,0,0,0,1,0,1
+Voices,Falling In Reverse,0.546,0.898,2,-3.067,0,0.162,0.0266,0.0,0.129,0.639,173.17,2021,Sweden,English,Pop,Male,1,4,0,0,7.0,1,0,1,0,1,0,0,0,0,1
+Technicolour,Oh Wonder,0.597,0.363,5,-10.365,0,0.0314,0.626,2.96e-05,0.0848,0.0785,130.022,2021,Australia,English,Pop,Female,1,3,0,0,14.0,1,0,0,1,1,0,0,0,0,0
+Here I Stand,USHER,0.535,0.528,5,-5.763,1,0.0461,0.322,0.0,0.24,0.261,119.796,2021,North Macedonia,English,Ballad,Male,1,0,0,0,15.0,1,0,1,0,0,0,1,0,0,0
+Maps,Maroon 5,0.742,0.713,1,-5.522,0,0.0303,0.0205,0.0,0.059,0.879,120.032,2021,Ireland,English,Pop,Female,1,0,0,0,16.0,1,0,0,1,1,0,0,0,0,0
+El Diablo,La Santa Grifa,0.89,0.619,7,-4.364,1,0.411,0.167,0.0,0.186,0.725,126.506,2021,Cyprus,English,Pop,Female,1,4,0,0,6.0,1,0,0,1,1,0,0,0,0,1
+Fallen Angel,Mass of Man,0.804,0.482,9,-10.376,1,0.282,0.253,0.0,0.107,0.194,119.887,2021,Norway,English,Pop,Male,1,4,0,0,10.0,1,0,1,0,1,0,0,0,0,1
+Tick-Tock,Hans Zimmer,0.261,0.231,9,-15.826,0,0.0388,0.271,0.9,0.239,0.0396,119.89,2021,Croatia,"English,ï¿½Croatian",Pop,Female,1,4,0,0,11.0,0,1,0,1,1,0,0,0,0,0
+The Wrong Place,Hooverphonic,0.491,0.728,5,-4.482,1,0.0428,0.0479,1.38e-06,0.16,0.246,80.239,2021,Belgium,English,Ballad,Female,1,0,1,3,9.0,1,0,0,1,0,0,1,0,0,1
+Set Me Free,Jimin,0.585,0.815,0,-4.165,0,0.0565,0.115,0.0,0.124,0.564,132.09,2021,Israel,English,Pop,Female,1,4,0,0,5.0,1,0,0,1,1,0,0,0,0,1
+Amnesia,La Santa Grifa,0.818,0.638,11,-6.926,0,0.225,0.00673,0.0,0.495,0.783,112.753,2021,Romania,English,Ballad,Female,1,5,0,0,12.0,1,0,0,1,0,0,1,0,0,0
+Mata Hari,Intervals,0.499,0.966,1,-4.841,1,0.107,2.58e-06,0.794,0.15,0.523,114.967,2021,Azerbaijan,English,Pop,Female,1,4,0,0,8.0,1,0,0,1,1,0,0,0,0,1
+Shum,Go_A,0.527,0.736,4,-5.341,1,0.0638,0.05,7.89e-05,0.105,0.503,117.657,2021,Ukraine,Ukrainian,Traditional,Female,1,2,0,3,2.0,0,0,0,1,0,0,0,1,0,1
+Je me casse,Destiny,0.763,0.87,8,-4.493,0,0.107,0.148,0.0,0.277,0.783,111.988,2021,Malta,English,Pop,Female,1,4,0,0,1.0,1,0,0,1,1,0,0,0,0,1
+Adrenalina,"Natanael Cano, Dan Sanchez",0.733,0.455,8,-9.338,1,0.0385,0.00985,0.0,0.199,0.417,136.472,2021,San Marino,English,Dance,Mix,2,4,0,0,9.0,1,0,0,0,0,0,0,0,1,1
+The Lucky One,Taylor Swift,0.686,0.571,4,-7.138,1,0.05,0.066,0.0,0.0608,0.538,117.889,2021,Estonia,English,Ballad,Male,1,0,0,0,13.0,1,0,1,0,0,0,1,0,0,0
+Omaga,Benny Cristo,0.717,0.872,6,-5.647,1,0.033,0.109,0.00156,0.344,0.886,122.012,2021,Czech Republic,English,Ballad,Male,1,4,0,0,15.0,1,0,1,0,0,0,1,0,0,0
+Last Dance,Donna Summer,0.605,0.612,3,-13.399,1,0.0439,0.121,0.00236,0.22,0.5,125.37,2021,Greece,English,Pop,Female,1,4,0,0,6.0,1,0,0,1,1,0,0,0,0,1
+Amen,for KING & COUNTRY,0.64,0.469,7,-8.718,1,0.0412,0.00758,0.000453,0.0711,0.305,90.001,2021,Austria,English,Ballad,Male,1,0,0,0,12.0,1,0,1,0,0,0,1,0,0,0
+The Ride,David Allan Coe,0.668,0.429,5,-12.365,1,0.0464,0.241,0.0,0.129,0.531,83.504,2021,Poland,English,Pop,Male,1,4,0,0,14.0,1,0,1,0,1,0,0,0,0,0
+Sugar,ElyOtto,0.748,0.734,0,-6.499,1,0.124,0.524,1.15e-05,0.0975,0.368,97.753,2021,Moldova,English,Pop,Female,1,4,0,0,7.0,1,0,0,1,1,0,0,0,0,1
+10 Years,Nico Ducarme,0.644,0.334,10,-10.053,1,0.0652,0.616,0.00105,0.205,0.309,117.93,2021,Iceland,English,Pop,Male,1,0,2,3,2.0,1,0,1,0,1,0,0,0,0,1
+Loco Loco,Dionis Fernandez,0.592,0.549,8,-14.666,1,0.0396,0.206,3.31e-05,0.0313,0.887,111.245,2021,Serbia,Serbian,Pop,Female,3,0,0,0,8.0,0,0,0,1,1,0,0,0,0,1
+You,Taylor Swift,0.687,0.783,6,-4.44,1,0.0386,0.162,1.35e-05,0.114,0.443,129.964,2021,Georgia,English,Ballad,Male,1,0,0,0,16.0,1,0,1,0,0,0,1,0,0,0
+Karma,Taylor Swift,0.642,0.62,8,-7.091,1,0.0666,0.0734,0.0,0.483,0.0969,90.02,2021,Albania,Albanian,Ballad,Female,1,0,0,0,10.0,0,0,0,1,0,0,1,0,0,1
+Love Is on My Side,Brandy,0.489,0.512,0,-7.704,1,0.0323,0.374,4.49e-06,0.0666,0.158,127.893,2021,Portugal,English,Traditional,Male,1,0,0,4,4.0,1,0,1,0,0,0,0,1,0,1
+Growing Up Is Getting Old,Jason Michael Carroll,0.543,0.803,7,-4.504,1,0.0379,0.0533,0.0,0.302,0.668,145.986,2021,Bulgaria,English,Ballad,Female,1,0,0,0,3.0,1,0,0,1,0,0,1,0,0,1
+Dark Side,XAN$X,0.731,0.509,7,-7.818,1,0.0457,0.559,0.663,0.111,0.963,120.047,2021,Finland,English,Rock,Male,2,0,1,3,5.0,1,0,1,0,0,1,0,0,0,1
+The Moon Is Rising,"Arthur ""Big Boy"" Crudup",0.71,0.0461,5,-16.674,0,0.0459,0.708,0.0,0.109,0.5,73.515,2021,Latvia,English,Ballad,Female,1,3,0,0,17.0,1,0,0,1,0,0,1,0,0,0
+Tout l'univers,Gjon's Tears,0.532,0.363,9,-9.131,0,0.0317,0.824,5.08e-06,0.107,0.183,123.472,2021,Switzerland,French,Ballad,Male,1,0,0,0,1.0,0,0,1,0,0,0,1,0,0,1
+Ove os pa hinanden,Fyr Og Flamme,0.678,0.867,0,-5.85,1,0.0268,0.0128,3.19e-05,0.344,0.961,124.001,2021,Denmark,Danish,Pop,Male,2,0,3,0,11.0,0,0,1,0,1,0,0,0,0,0
+Replay,Iyaz,0.706,0.751,9,-6.323,1,0.0708,0.173,0.0,0.168,0.195,91.031,2019,Cyprus,English,Dance,Female,1,4,0,0,9.0,1,0,0,1,0,0,0,0,1,1
+Heaven,Michael Jackson,0.706,0.685,11,-3.669,1,0.0837,0.56,0.0,0.22,0.444,117.448,2019,Montenegro,English,Pop,Mix,6,0,0,0,16.0,1,0,0,0,1,0,0,0,0,0
+Look Away,Geek Music,0.7,0.731,6,-10.063,0,0.0924,0.613,0.0,0.24,0.722,135.884,2019,Finland,English,Dance,Male,1,1,0,1,17.0,1,0,1,0,0,0,0,0,1,0
+Fire of Love,Jesse Jo Stark,0.356,0.816,7,-3.464,1,0.039,0.00719,0.00103,0.757,0.527,174.131,2019,Poland,"Polish, English",Traditional,Female,4,0,0,0,11.0,0,1,0,1,0,0,0,1,0,0
+Sebi,"Justin Hurwitz, Justin Paul, Benj Pasek",0.476,0.192,9,-15.753,1,0.064,0.976,0.928,0.119,0.114,116.542,2019,Slovenia,Slovene,Ballad,Mix,2,0,0,0,6.0,0,0,0,0,0,0,1,0,0,1
+Friend of a Friend,The Smile,0.383,0.312,10,-12.037,1,0.0324,0.567,0.796,0.107,0.26,123.446,2019,Czech Republic,English,Pop,Male,1,0,0,2,2.0,1,0,1,0,1,0,0,0,0,1
+Az en apam,Kárpátia,0.759,0.82,4,-7.315,0,0.0299,0.327,1.33e-06,0.295,0.967,109.993,2019,Hungary,Hungarian,Ballad,Male,1,0,0,0,12.0,0,0,1,0,0,0,1,0,0,0
+Like It,Diana and Roma,0.979,0.538,6,-6.743,1,0.0798,0.017,0.00219,0.0438,0.789,120.052,2019,Belarus,English,Dance,Female,1,2,2,0,10.0,1,0,0,1,0,0,0,0,1,1
+Kruna,Nevena Božović,0.2,0.476,8,-6.411,0,0.0305,0.215,0.0,0.126,0.162,158.494,2019,Serbia,Serbian,Ballad,Female,1,0,0,0,7.0,0,0,0,1,0,0,1,0,0,1
+Wake Up,MoonDeity,0.676,0.617,0,-4.626,1,0.0414,0.000816,0.636,0.227,0.718,124.978,2019,Belgium,English,Ballad,Male,1,0,0,2,13.0,1,0,1,0,0,0,1,0,0,0
+Keep on Going,Fleetwood Mac,0.598,0.496,1,-15.915,0,0.0308,0.308,0.00119,0.0655,0.916,106.631,2019,Georgia,Georgian,Traditional,Male,1,0,5,0,14.0,0,0,1,0,0,0,0,1,0,0
+Zero Gravity,"Rippling, CONNXCT, William Cas",0.191,0.0629,4,-24.437,0,0.0462,0.947,0.877,0.101,0.0547,219.483,2019,Australia,English,Opera,Female,1,2,0,0,1.0,1,0,0,1,0,0,0,0,0,1
+Hatrio mun sigra,Various Artists,0.569,0.672,4,-9.721,0,0.0756,0.000804,1.46e-05,0.0902,0.483,109.925,2019,Iceland,Icelandic,Dance,Mix,2,4,0,0,3.0,0,0,0,0,0,0,0,0,1,1
+Storm,"Jorge Rivera-Herrans, Cast of EPIC: The Musical",0.277,0.657,6,-6.687,0,0.0626,0.234,0.0,0.106,0.324,165.02,2019,Estonia,English,Pop,Male,1,0,0,0,4.0,1,0,1,0,1,0,0,0,0,1
+TelemOveis,CONAN OSIRIS,0.714,0.365,7,-11.524,1,0.055,0.622,0.0319,0.0803,0.239,123.086,2019,Portugal,Portuguese,Traditional,Male,1,1,0,0,15.0,0,0,1,0,0,0,0,1,0,0
+Better Love,Hozier,0.389,0.802,0,-3.438,1,0.0616,0.0307,2.63e-06,0.0862,0.4,126.748,2019,Greece,English,Pop,Female,1,2,3,0,5.0,1,0,0,1,1,0,0,0,0,1
+Say Na Na Na,Serhat,0.676,0.922,1,-4.754,0,0.0763,0.000571,0.000153,0.361,0.742,118.032,2019,San Marino,English,Dance,Male,1,0,5,0,8.0,1,0,1,0,0,0,0,0,1,1
+Walking Out,The Nerves,0.291,0.913,9,-6.368,1,0.0583,0.113,0.00221,0.341,0.683,173.387,2019,Armenia,English,Pop,Female,1,0,0,0,16.0,1,0,0,1,1,0,0,0,0,0
+22,Taylor Swift,0.642,0.695,7,-5.62,1,0.0281,0.000443,1.02e-05,0.0753,0.642,103.984,2019,Ireland,English,Pop,Female,1,2,0,0,18.0,1,0,0,1,1,0,0,0,0,0
+Stay,Various Artists,0.382,0.836,9,-5.661,0,0.403,0.0725,0.0,0.23,0.444,201.776,2019,Moldova,English,Ballad,Female,1,1,0,0,12.0,1,0,0,1,0,0,1,0,0,0
+She Got Me,"Harnoor & Gifty, Harnoor",0.71,0.468,11,-9.261,0,0.0398,0.181,0.0,0.292,0.217,90.006,2019,Switzerland,English,Dance,Male,1,4,0,0,4.0,1,0,1,0,0,0,0,0,1,1
+That Night,Lucia Zambetti,0.692,0.578,1,-7.866,1,0.0278,0.397,3.3e-05,0.0961,0.698,135.023,2019,Latvia,English,Pop,Female,1,0,0,3,15.0,1,0,0,1,1,0,0,0,0,0
+On a Sunday,Latino Velvet,0.784,0.765,1,-3.545,1,0.212,0.095,0.0,0.182,0.845,94.812,2019,Romania,English,Pop,Female,1,2,2,1,13.0,1,0,0,1,1,0,0,0,0,0
+Love Is Forever,Tommy february6,0.553,0.977,2,-3.731,1,0.0296,0.000174,0.933,0.328,0.97,120.03,2019,Denmark,"English,ï¿½French",Pop,Female,1,2,2,0,10.0,0,1,0,1,1,0,0,0,0,1
+Too Late for Love,Def Leppard,0.536,0.812,4,-7.379,0,0.0441,0.00306,0.000455,0.116,0.338,94.677,2019,Sweden,English,Ballad,Male,1,0,4,0,3.0,1,0,1,0,0,0,1,0,0,1
+Limits,Bad Omens,0.312,0.968,5,-3.316,1,0.418,0.000305,4.37e-05,0.113,0.3,103.005,2019,Austria,English,Ballad,Female,1,0,0,0,17.0,1,0,0,1,0,0,1,0,0,0
+The Dream,The-Dream,0.723,0.322,8,-9.702,1,0.0341,0.014,0.0,0.119,0.0406,90.063,2019,Croatia,"English,ï¿½Croatian",Ballad,Male,1,2,0,0,14.0,0,1,1,0,0,0,1,0,0,0
+Chameleon,Boy George,0.676,0.577,10,-12.031,1,0.0365,0.186,0.0,0.148,0.934,91.98,2019,Malta,English,Pop,Female,1,4,0,0,8.0,1,0,0,1,1,0,0,0,0,1
+Run with the Lions,Jurijus,0.568,0.704,0,-6.545,1,0.0445,0.0351,0.00882,0.094,0.399,157.969,2019,Lithuania,English,Pop,Male,1,0,0,0,11.0,1,0,1,0,1,0,0,0,0,0
+Scream,will.i.am,0.772,0.685,5,-6.849,1,0.0696,0.019,8.96e-05,0.131,0.501,130.033,2019,Russia,English,Ballad,Male,1,0,0,0,6.0,1,0,1,0,0,0,1,0,0,1
+Ktheju tokes,Genvis Muça,0.68,0.91,8,-6.503,1,0.0483,0.00029,0.107,0.0686,0.127,126.03,2019,Albania,Albanian,Traditional,Female,1,0,3,0,9.0,0,0,0,1,0,0,0,1,0,1
+Spirit in the Sky,Norman Greenbaum,0.609,0.617,9,-7.091,1,0.0307,0.0994,0.00404,0.118,0.543,128.903,2019,Norway,English,Dance,Mix,3,0,0,0,7.0,1,0,0,0,0,0,0,0,1,1
+Arcade,Duncan Laurence,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,2019,Netherlands,English,Ballad,Male,1,0,0,0,1.0,1,0,1,0,0,0,1,0,0,1
+Proud,Tina Turner,0.397,0.499,2,-10.972,1,0.0685,0.0766,1.55e-06,0.111,0.367,171.067,2019,North Macedonia,English,Ballad,Female,1,0,0,0,2.0,1,0,0,1,0,0,1,0,0,1
+Truth,Tyla,0.61,0.599,1,-5.752,1,0.341,0.183,0.000124,0.0854,0.805,154.255,2019,Azerbaijan,English,Pop,Male,1,0,0,0,5.0,1,0,1,0,1,0,0,0,0,1
+X My Heart,AISEL,0.6,0.786,8,-6.616,1,0.0446,0.00313,2.44e-06,0.125,0.27,119.891,2018,Azerbaijan,English,Pop,Female,1,4,0,0,11.0,1,0,0,1,1,0,0,0,0,0
+Our Choice,The Early November,0.28,0.699,2,-5.562,0,0.0576,0.0728,0.0,0.109,0.29,175.254,2018,Iceland,English,Ballad,Male,1,0,5,0,19.0,1,0,1,0,0,0,1,0,0,0
+Mall,EST Gee,0.825,0.64,11,-7.419,1,0.324,0.0783,0.0,0.355,0.628,82.035,2018,Albania,Albanian,Rock,Male,4,0,2,3,8.0,0,0,1,0,0,1,0,0,0,1
+A Matter of Time,Daniel Schrage,0.299,0.012,0,-32.732,1,0.0433,0.994,0.916,0.105,0.0838,94.224,2018,Belgium,English,Pop,Female,1,0,0,0,12.0,1,0,0,1,1,0,0,0,0,0
+Lie to Me,SweepersENT,0.824,0.676,1,-7.467,0,0.264,0.0864,0.0,0.104,0.256,129.973,2018,Czech Republic,English,Pop,Male,1,2,0,0,3.0,1,0,1,0,1,0,0,0,0,1
+When We're Old,Rome Hero Foxes,0.595,0.521,9,-7.549,1,0.0302,0.753,0.0,0.0922,0.531,157.005,2018,Lithuania,English,Ballad,Female,1,0,0,0,9.0,1,0,0,1,0,0,1,0,0,1
+Toy,Netta,0.786,0.712,3,-5.349,0,0.0677,0.0696,0.0,0.236,0.795,130.144,2018,Israel,English,Pop,Female,1,3,0,0,1.0,1,0,0,1,1,0,0,0,0,1
+Forever,Noah Kahan,0.395,0.254,0,-10.855,1,0.037,0.723,0.0,0.122,0.235,94.78,2018,Belarus,English,Ballad,Male,1,1,0,0,16.0,1,0,1,0,0,0,1,0,0,0
+La forza,Arturo Stalteri,0.0688,0.138,0,-23.439,1,0.0465,0.414,0.805,0.0875,0.0363,76.787,2018,Estonia,Italian,Opera,Female,1,0,0,0,5.0,0,0,0,1,0,0,0,0,0,1
+Bones,Imagine Dragons,0.773,0.742,5,-3.678,0,0.046,0.0206,0.0,0.0754,0.571,114.071,2018,Bulgaria,English,Pop,Mix,5,0,0,0,7.0,1,0,0,0,1,0,0,0,0,1
+Lost and Found,Brooks & Dunn,0.659,0.786,4,-5.583,1,0.0279,0.211,0.0,0.0854,0.779,115.285,2018,North Macedonia,English,Pop,Female,1,0,3,2,18.0,1,0,0,1,1,0,0,0,0,0
+Crazy,Ozzy Osbourne,0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688,2018,Croatia,English,Pop,Female,1,0,0,0,17.0,1,0,0,1,1,0,0,0,0,0
+Nobody but You,"Sonder, Jorja Smith",0.637,0.299,7,-11.314,1,0.0366,0.742,0.0,0.359,0.364,83.872,2018,Austria,English,Pop,Male,1,0,0,0,4.0,1,0,1,0,1,0,0,0,0,1
+Oniro mou,Haris Akritidis,0.624,0.832,2,-4.903,0,0.0336,0.558,0.0,0.183,0.723,106.087,2018,Greece,Greek,Pop,Female,1,0,0,0,14.0,0,0,0,1,1,0,0,0,0,0
+Monsters,James Blunt,0.375,0.409,0,-8.713,0,0.037,0.205,0.0,0.1,0.196,127.854,2018,Finland,English,Pop,Female,1,4,0,0,10.0,1,0,0,1,1,0,0,0,0,1
+Qami,Sevak,0.34,0.499,2,-8.086,0,0.0358,0.18,1.07e-06,0.272,0.227,74.903,2018,Armenia,Armenian,Pop,Male,1,0,0,0,15.0,0,0,1,0,1,0,0,0,0,0
+Stones,Kim Walker-Smith,0.41,0.709,1,-7.069,0,0.045,0.0164,0.0,0.145,0.186,75.954,2018,Switzerland,English,Pop,Female,1,0,0,1,13.0,1,0,0,1,1,0,0,0,0,0
+Together,Rick Astley,0.702,0.933,2,-11.876,1,0.0492,0.0519,0.000128,0.155,0.896,115.114,2018,Ireland,English,Traditional,Male,1,2,0,1,6.0,1,0,1,0,0,0,0,1,0,1
+Fuego,Pitbull,0.882,0.693,1,-5.783,1,0.139,0.0301,0.000539,0.0618,0.582,135.055,2018,Cyprus,English,Pop,Female,1,4,0,0,2.0,1,0,0,1,1,0,0,0,0,1
+That's How You Write a Song,Alexander Rybak,0.761,0.78,5,-9.519,0,0.05,0.119,3.62e-06,0.0575,0.901,104.019,2018,Norway,English,Pop,Male,1,4,0,0,1.0,1,0,1,0,1,0,0,0,0,1
+Goodbye,Elton John,0.559,0.473,5,-7.712,1,0.0279,0.446,0.00141,0.154,0.397,121.227,2018,Romania,English,Pop,Female,1,0,0,5,11.0,1,0,0,1,1,0,0,0,0,0
+Nova deca,Sanja Ilic & Balkanika,0.383,0.874,11,-4.02,0,0.111,0.0757,3.65e-05,0.301,0.301,125.19,2018,Serbia,Serbian,Traditional,Mix,2,1,2,1,9.0,0,0,0,0,0,0,0,1,0,1
+Who We Are,Imagine Dragons,0.407,0.656,6,-7.088,0,0.0413,0.00746,0.255,0.343,0.39,173.954,2018,San Marino,English,Pop,Female,1,2,1,0,17.0,1,0,0,1,1,0,0,0,0,0
+Higher Ground,Stevie Wonder,0.716,0.85,8,-9.949,1,0.0426,0.0631,0.00133,0.189,0.821,125.474,2018,Denmark,English,Traditional,Male,1,4,0,0,5.0,1,0,1,0,0,0,0,1,0,1
+I Won't Break,Elyssa Smith,0.324,0.32,2,-9.786,1,0.0285,0.451,0.000384,0.117,0.146,174.209,2018,Russia,English,Pop,Female,1,2,3,0,15.0,1,0,0,1,1,0,0,0,0,0
+My Lucky Day,Bruce Springsteen,0.398,0.94,2,-6.06,1,0.0587,7.88e-05,2.92e-06,0.352,0.623,140.603,2018,Moldova,English,Pop,Mix,3,3,0,0,3.0,1,0,0,0,1,0,0,0,0,1
+Outlaw in 'Em,Waylon,0.502,0.933,4,-3.332,0,0.0772,0.0313,0.0,0.368,0.684,87.01,2018,Netherlands,English,Rock,Male,1,0,0,4,7.0,1,0,1,0,0,1,0,0,0,1
+We Got Love,"Sigala, Ella Henderson",0.722,0.812,9,-3.352,0,0.0924,0.0205,2.51e-05,0.131,0.657,124.909,2018,Australia,English,Pop,Female,1,0,0,0,4.0,1,0,0,1,1,0,0,0,0,1
+For You,NightCove_thefox,0.767,0.286,3,-16.052,1,0.0544,0.296,0.0,0.0992,0.484,100.019,2018,Georgia,Georgian,Pop,Male,3,0,0,2,18.0,0,0,1,0,1,0,0,0,0,0
+Light Me Up,Ingrid Michaelson,0.417,0.595,6,-7.84,1,0.0396,0.158,0.000269,0.101,0.117,147.928,2018,Poland,English,Dance,Male,1,1,3,1,14.0,1,0,1,0,0,0,0,0,1,0
+Taboo,Don Omar,0.43,0.886,0,-5.811,1,0.0828,0.0449,0.0,0.0879,0.808,187.38,2018,Malta,English,Pop,Female,1,1,0,0,13.0,1,0,0,1,1,0,0,0,0,0
+Viszlat nyar,AWS,0.346,0.936,8,-3.933,1,0.0502,7e-05,1.08e-05,0.052,0.38,163.999,2018,Hungary,Hungarian,Rock,Male,1,0,0,4,10.0,0,0,1,0,0,1,0,0,0,1
+Funny Girl,Father John Misty,0.237,0.352,10,-8.864,1,0.0359,0.963,0.229,0.156,0.254,180.402,2018,Latvia,English,Pop,Female,1,0,0,0,12.0,1,0,0,1,1,0,0,0,0,0
+Dance You Off,Benjamin Ingrosso,0.73,0.692,8,-5.432,1,0.0695,0.104,5.42e-06,0.106,0.76,109.08,2018,Sweden,English,Pop,Male,1,0,0,0,2.0,1,0,1,0,1,0,0,0,0,1
+Inje,Rise Against,0.42,0.996,8,-2.961,0,0.0804,0.000229,0.00042,0.0897,0.433,105.686,2018,Montenegro,Montenegrin,Rock,Male,1,4,0,1,16.0,0,0,1,0,0,1,0,0,0,0
+"Hvala, ne!",Lea Sirk,0.813,0.595,1,-8.471,1,0.0475,0.0148,0.000164,0.1,0.359,140.066,2018,Slovenia,Slovene,Pop,Female,1,4,0,0,8.0,0,0,0,1,1,0,0,0,0,1
+Under the Ladder,MÉLOVIN,0.573,0.75,10,-6.275,0,0.039,0.00251,2.39e-05,0.1,0.48,139.933,2018,Ukraine,English,Dance,Male,1,0,4,0,6.0,1,0,1,0,0,0,0,0,1,1
+I Can't Go On,KALEO,0.368,0.267,8,-9.395,0,0.0428,0.655,2.24e-05,0.0834,0.194,91.88,2017,Sweden,English,Pop,Male,1,4,0,0,3.0,1,0,1,0,1,0,0,0,0,1
+Keep the Faith,Bon Jovi,0.569,0.968,5,-3.72,0,0.0487,0.00108,0.00153,0.0814,0.568,117.783,2017,Georgia,English,Pop,Female,1,0,0,0,11.0,1,0,0,1,1,0,0,0,0,0
+Don't Come Easy,Raheem DeVaughn,0.674,0.361,11,-10.036,0,0.218,0.867,3.74e-06,0.0975,0.239,71.613,2017,Australia,English,Pop,Male,1,0,0,0,6.0,1,0,1,0,1,0,0,0,0,1
+World,AJR,0.68,0.696,5,-6.977,1,0.051,0.116,0.0,0.607,0.684,115.962,2017,Albania,English,Pop,Female,1,0,4,0,14.0,1,0,0,1,1,0,0,0,0,0
+City Lights,Ese 40'z,0.734,0.694,1,-7.41,1,0.131,0.0816,0.0,0.0843,0.505,94.015,2017,Belgium,English,Pop,Female,1,0,0,0,4.0,1,0,0,1,1,0,0,0,0,1
+Space,Beach House,0.508,0.792,0,-7.311,0,0.0297,0.229,0.124,0.145,0.601,147.067,2017,Montenegro,English,Pop,Male,1,0,0,0,16.0,1,0,1,0,1,0,0,0,0,0
+Blackbird,The Beatles,0.686,0.127,7,-14.361,1,0.0342,0.754,1.41e-05,0.0573,0.372,93.699,2017,Finland,English,Ballad,Female,1,0,0,1,12.0,1,0,0,1,0,0,1,0,0,0
+Skeletons,Travis Scott,0.46,0.686,0,-5.948,0,0.0367,0.00146,0.0,0.375,0.252,148.054,2017,Azerbaijan,English,Pop,Female,1,1,4,0,8.0,1,0,0,1,1,0,0,0,0,1
+Amar pelos dois,Salvador Sobral,0.215,0.0952,5,-17.769,1,0.0358,0.853,0.00426,0.261,0.16,172.692,2017,Portugal,Portuguese,Ballad,Male,1,0,0,0,1.0,0,0,1,0,0,0,1,0,0,1
+This Is Love,Air Traffic Controller,0.62,0.732,4,-5.506,1,0.0902,0.102,0.0,0.171,0.645,112.104,2017,Greece,English,Pop,Female,1,2,0,0,10.0,1,0,0,1,1,0,0,0,0,1
+Flashlight,Various Artists,0.379,0.618,5,-7.065,1,0.0586,0.337,5.1e-06,0.102,0.4,147.53,2017,Poland,English,Pop,Female,1,0,0,1,9.0,1,0,0,1,1,0,0,0,0,1
+"Hey, Mamma!",Sunstroke Project,0.832,0.807,10,-5.944,0,0.112,0.233,0.0102,0.0681,0.644,110.094,2017,Moldova,English,Dance,Male,1,0,3,2,2.0,1,0,1,0,0,0,0,0,1,1
+Paper,Taylor Swift,0.811,0.719,9,-6.553,1,0.0497,0.0129,1.36e-05,0.0742,0.865,103.979,2017,Iceland,English,Pop,Female,1,0,0,0,15.0,1,0,0,1,1,0,0,0,0,0
+My Turn,"kidthvldd backup, kidthvldd",0.858,0.681,1,-5.802,1,0.17,0.00559,0.0,0.231,0.928,127.747,2017,Czech Republic,English,Pop,Female,1,0,0,0,13.0,1,0,0,1,1,0,0,0,0,0
+Gravity,Brad Breeck,0.62,0.892,5,-3.406,1,0.0431,0.0326,0.971,0.348,0.922,166.124,2017,Cyprus,English,Pop,Male,1,2,0,0,5.0,1,0,1,0,1,0,0,0,0,1
+Fly with Me,Jonas Brothers,0.481,0.926,0,-3.464,1,0.0576,0.00561,0.0,0.119,0.523,149.957,2017,Armenia,English,Pop,Female,1,2,0,0,7.0,1,0,0,1,1,0,0,0,0,1
+On My Way,"Alan Walker, Sabrina Carpenter, Farruko",0.509,0.689,1,-4.929,0,0.102,0.0209,0.0,0.301,0.297,170.087,2017,Slovenia,English,Ballad,Male,1,0,0,0,17.0,1,0,1,0,0,0,1,0,0,0
+Line,"Uzielito Mix, Yeri Mua, El Jordan 23",0.878,0.857,1,-2.337,1,0.148,0.0263,0.0,0.301,0.899,99.99,2017,Latvia,English,Pop,Female,1,0,0,3,18.0,1,0,0,1,1,0,0,0,0,0
+In Too Deep,Sum 41,0.568,0.844,9,-5.875,1,0.0505,0.000189,0.0,0.0607,0.766,116.046,2017,Serbia,English,Pop,Female,1,1,0,0,11.0,1,0,0,1,1,0,0,0,0,0
+Running on Air,Moonfall,0.626,0.832,1,-3.428,0,0.0419,0.0246,0.0,0.0975,0.377,127.044,2017,Austria,English,Pop,Male,1,0,4,0,7.0,1,0,1,0,1,0,0,0,0,1
+Dance Alone,"Sia, Kylie Minogue",0.687,0.651,1,-4.756,1,0.0419,0.00296,0.26,0.0822,0.508,119.961,2017,North Macedonia,English,Pop,Female,1,0,0,0,15.0,1,0,0,1,1,0,0,0,0,0
+Breathlessly,Lovetape,0.41,0.626,3,-5.088,1,0.029,0.142,0.000398,0.18,0.522,179.908,2017,Malta,English,Ballad,Female,1,0,0,0,16.0,1,0,0,1,0,0,1,0,0,0
+Yodel It!,"Ilinca, Alex Florea",0.504,0.862,10,-6.81,1,0.129,0.00309,0.0,0.0856,0.749,174.022,2017,Romania,English,Pop,Mix,2,0,1,0,6.0,1,0,0,0,1,0,0,0,0,1
+Lights and Shadows,Thejrsounddesign,0.419,0.00463,10,-23.276,1,0.0501,0.985,0.882,0.0948,0.177,128.569,2017,Netherlands,English,Pop,Female,3,0,0,0,4.0,1,0,0,1,1,0,0,0,0,1
+Origo,Pápai Joci,0.596,0.733,9,-6.514,0,0.152,0.479,0.0,0.29,0.376,107.865,2017,Hungary,Hungarian,Traditional,Male,1,1,0,0,2.0,0,0,1,0,0,0,0,1,0,1
+Where I Am,"Meisym, Flx",0.571,0.675,4,-4.612,0,0.0391,0.76,2.62e-05,0.354,0.325,141.01,2017,Denmark,English,Pop,Female,1,0,0,0,10.0,1,0,0,1,1,0,0,0,0,1
+Dying to Try,Brendan Murray,0.44,0.481,5,-7.199,0,0.0335,0.626,0.0,0.108,0.192,163.876,2017,Ireland,English,Ballad,Male,1,0,0,0,13.0,1,0,1,0,0,0,1,0,0,0
+Spirit of the Night,Tesla Boy,0.597,0.936,2,-5.836,1,0.0557,0.0479,0.00193,0.825,0.582,159.98,2017,San Marino,English,Pop,Mix,2,3,0,0,18.0,1,0,0,0,1,0,0,0,0,0
+My Friend,DC Talk,0.49,0.831,9,-3.768,1,0.0444,0.00822,1.14e-06,0.0869,0.416,121.999,2017,Croatia,"English,ï¿½Italian",Opera,Male,1,0,3,2,8.0,0,1,1,0,0,0,0,0,0,1
+Grab the Moment,JOWST,0.693,0.612,4,-6.665,0,0.0941,0.117,0.0,0.0905,0.316,104.014,2017,Norway,English,Pop,Male,1,0,0,3,5.0,1,0,1,0,1,0,0,0,0,1
+Apollo,Last Dinosaurs,0.512,0.915,8,-5.183,0,0.104,0.296,0.000185,0.156,0.53,127.015,2017,Switzerland,English,Pop,Female,1,0,0,2,12.0,1,0,0,1,1,0,0,0,0,0
+Story of My Life,One Direction,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,2017,Belarus,Belarusian,Pop,Mix,2,0,0,0,9.0,0,0,0,0,1,0,0,0,0,1
+Beautiful Mess,Hillary Scott & The Scott Family,0.463,0.722,0,-6.453,1,0.0423,0.478,2.5e-06,0.139,0.479,84.913,2017,Bulgaria,English,Pop,Male,1,0,0,0,1.0,1,0,1,0,1,0,0,0,0,1
+Rain of Revolution,Leah Burton,0.258,0.414,5,-20.373,1,0.0575,0.971,0.928,0.394,0.152,80.44,2017,Lithuania,English,Pop,Female,1,0,4,1,17.0,1,0,0,1,1,0,0,0,0,0
+Verona,Muse,0.336,0.846,7,-5.026,1,0.0484,0.0969,0.000601,0.097,0.221,176.056,2017,Estonia,English,Pop,Mix,2,0,0,0,14.0,1,0,0,0,1,0,0,0,0,0
+I Feel Alive,"Kordhell, Scarlxrd",0.613,0.944,10,-0.142,0,0.0428,8.27e-05,0.00425,0.325,0.497,118.069,2017,Israel,English,Pop,Male,1,5,0,0,3.0,1,0,1,0,1,0,0,0,0,1
+Sing It Away,Sandhja,0.652,0.898,7,-4.554,0,0.0773,0.00473,0.0269,0.152,0.576,126.027,2016,Finland,English,Pop,Female,1,0,5,0,15.0,1,0,0,1,1,0,0,0,0,0
+Utopian Land,Various Artists,0.721,0.957,0,-5.425,0,0.108,2.48e-05,0.907,0.0659,0.515,128.01,2016,Greece,"English,ï¿½Greek3",Pop,Mix,4,0,0,2,16.0,0,1,0,0,1,0,0,0,0,0
+Falling Stars,Stick Figure,0.753,0.666,8,-7.981,1,0.0329,0.652,0.472,0.123,0.688,141.007,2016,Moldova,English,Pop,Female,1,1,0,0,17.0,1,0,0,1,1,0,0,0,0,0
+Pioneer,Upchurch,0.692,0.728,11,-7.398,0,0.0384,0.019,0.0,0.351,0.422,160.98,2016,Hungary,English,Pop,Male,1,0,3,1,4.0,1,0,1,0,1,0,0,0,0,1
+Lighthouse,Kelly Clarkson,0.634,0.341,5,-5.614,1,0.0257,0.66,0.0,0.18,0.204,77.976,2016,Croatia,English,Pop,Female,1,0,4,0,10.0,1,0,0,1,1,0,0,0,0,1
+Slow Down,Selena Gomez,0.722,0.821,1,-3.856,0,0.165,0.073,0.0,0.631,0.721,127.944,2016,Netherlands,English,Pop,Male,1,0,0,5,5.0,1,0,1,0,1,0,0,0,0,1
+LoveWave,Gagan Lally,0.838,0.504,9,-8.117,1,0.0628,0.0898,0.0,0.0887,0.855,116.919,2016,Armenia,English,Pop,Female,1,0,0,0,2.0,1,0,0,1,1,0,0,0,0,1
+I Didn't Know,Sofia Carson,0.385,0.265,6,-9.02,0,0.0809,0.291,0.0,0.135,0.285,82.744,2016,San Marino,English,Pop,Male,1,0,5,0,12.0,1,0,1,0,1,0,0,0,0,0
+You Are the Only One,"Kirk Franklin, Gods Property",0.546,0.911,11,-6.134,0,0.248,0.14,0.0,0.938,0.747,180.207,2016,Russia,English,Pop,Male,1,0,0,0,1.0,1,0,1,0,1,0,0,0,0,1
+I Stand,Godsmack,0.217,0.92,8,-4.479,1,0.0628,2.86e-05,0.0,0.102,0.376,167.169,2016,Czech Republic,English,Pop,Female,1,0,0,0,9.0,1,0,0,1,1,0,0,0,0,1
+Alter Ego,Vivid BAD SQUAD,0.633,0.942,0,-3.853,1,0.101,0.315,0.0,0.306,0.805,175.96,2016,Cyprus,English,Rock,Male,1,0,0,4,8.0,1,0,1,0,0,1,0,0,0,1
+Loin d'ici,Zamdane,0.807,0.67,8,-5.863,0,0.107,0.554,0.0,0.19,0.526,119.966,2016,Austria,French,Pop,Female,1,0,0,0,7.0,0,0,0,1,1,0,0,0,0,1
+Play,Daniel Garcia,0.819,0.635,6,-6.367,0,0.0333,0.78,0.0,0.193,0.949,121.989,2016,Estonia,English,Pop,Male,1,0,0,0,18.0,1,0,1,0,1,0,0,0,0,0
+Miracle,"Calvin Harris, Ellie Goulding",0.636,0.869,9,-5.289,1,0.0412,0.0378,0.0446,0.0808,0.306,143.011,2016,Azerbaijan,English,Pop,Female,1,0,4,0,6.0,1,0,0,1,1,0,0,0,0,1
+The Real Thing,Bitty McLean,0.692,0.615,4,-9.243,0,0.0618,0.0129,0.000217,0.127,0.521,81.427,2016,Montenegro,English,Pop,Male,1,1,1,2,13.0,1,0,1,0,1,0,0,0,0,0
+Hear Them Calling,Greta Salóme,0.451,0.539,5,-12.399,1,0.0509,0.0338,0.0,0.202,0.31,134.192,2016,Iceland,English,Pop,Female,1,0,0,0,14.0,1,0,0,1,1,0,0,0,0,0
+Ljubav je,"Dalal Midhat, Deen",0.304,0.73,3,-5.63,1,0.115,0.343,0.0,0.0895,0.478,83.531,2016,Bosnia and Herzegovina,Bosnian,Pop,Mix,3,0,0,1,11.0,0,0,0,0,1,0,0,0,0,0
+Walk on Water,Eminem,0.483,0.439,9,-10.212,0,0.238,0.805,0.0,0.637,0.618,81.986,2016,Malta,English,Pop,Female,1,1,0,0,3.0,1,0,0,1,1,0,0,0,0,1
+Heartbeat,Childish Gambino,0.8,0.545,1,-7.002,0,0.127,0.00369,0.000461,0.0445,0.294,119.954,2016,Latvia,English,Pop,Male,1,0,0,0,8.0,1,0,1,0,1,0,0,0,0,1
+Color of Your Life,Michał Szpak,0.489,0.673,9,-4.924,0,0.0281,0.0884,0.0,0.0831,0.252,83.004,2016,Poland,English,Pop,Male,1,0,0,4,6.0,1,0,1,0,1,0,0,0,0,1
+The Last of Our Kind,Before You Fall,0.236,0.944,8,-4.242,1,0.0901,7.92e-05,2.16e-05,0.0987,0.146,180.02,2016,Switzerland,English,Pop,Female,1,0,0,0,18.0,1,0,0,1,1,0,0,0,0,0
+Made of Stars,Refuzion,0.424,0.829,0,-5.505,1,0.0419,0.000669,0.0,0.123,0.161,154.944,2016,Israel,English,Ballad,Male,1,2,0,0,7.0,1,0,1,0,0,0,1,0,0,1
+Help You Fly,Ivan,0.487,0.762,2,-6.095,0,0.0305,0.000624,2.43e-06,0.149,0.295,93.044,2016,Belarus,English,Pop,Male,1,0,0,0,12.0,1,0,1,0,1,0,0,0,0,0
+Goodbye (Shelter),King Shelter,0.607,0.775,5,-5.564,1,0.0279,0.0219,0.0117,0.16,0.425,125.468,2016,Serbia,English,Pop,Female,1,1,4,0,10.0,1,0,0,1,1,0,0,0,0,1
+Sunlight,Hozier,0.464,0.559,7,-4.209,0,0.0287,0.368,0.000176,0.106,0.368,115.349,2016,Ireland,English,Pop,Male,1,0,0,3,15.0,1,0,1,0,1,0,0,0,0,0
+Dona,Mac Miller,0.716,0.936,1,-4.968,0,0.123,0.0318,0.0,0.367,0.799,81.508,2016,North Macedonia,Macedonian,Ballad,Female,1,0,4,1,11.0,0,0,0,1,0,0,1,0,0,0
+I've Been Waiting for This Night,Donny Montell,0.48,0.775,9,-6.302,1,0.0353,0.00453,0.0,0.309,0.609,134.069,2016,Lithuania,English,Ballad,Male,1,0,0,0,4.0,1,0,1,0,0,0,1,0,0,1
+Sound of Silence,Disturbed,0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,2016,Australia,English,Pop,Female,1,0,0,0,1.0,1,0,0,1,1,0,0,0,0,1
+Blue and Red,Adrianne Lenker,0.622,0.303,4,-10.552,1,0.0286,0.961,0.00534,0.104,0.247,110.334,2016,Slovenia,English,Pop,Female,1,1,0,0,14.0,1,0,0,1,1,0,0,0,0,0
+If Love Was a Crime,Poli Genova,0.613,0.834,0,-5.164,1,0.0327,0.0211,0.0,0.225,0.524,110.069,2016,Bulgaria,"English,ï¿½Bulgarian",Dance,Female,1,0,0,0,5.0,0,1,0,1,0,0,0,0,1,1
+Soldiers of Love,#LikeMe Cast,0.423,0.675,0,-8.449,0,0.0854,0.269,0.0,0.121,0.51,71.736,2016,Denmark,English,Pop,Male,3,0,0,0,17.0,1,0,1,0,1,0,0,0,0,0
+1944,Jamala,0.809,0.506,3,-5.235,1,0.0565,0.596,0.00728,0.24,0.47,120.012,2016,Ukraine,"English,ï¿½Crimean Tatar",Pop,Female,1,0,0,0,2.0,0,1,0,1,1,0,0,0,0,1
+Icebreaker,RetroSpecter,0.284,0.933,5,-6.852,0,0.166,0.00122,0.675,0.317,0.309,175.259,2016,Norway,English,Dance,Female,1,1,0,0,13.0,1,0,0,1,0,0,0,0,1,0
+Midnight Gold,The Midnight,0.469,0.43,7,-13.577,1,0.0574,0.461,0.265,0.108,0.36,79.949,2016,Georgia,English,Rock,Male,1,0,0,3,9.0,1,0,1,0,0,1,0,0,0,1
+Fairytale,Alexander Rybak,0.573,0.784,2,-5.359,0,0.0293,0.61,3.89e-05,0.278,0.655,107.991,2016,Albania,English,Pop,Female,1,0,3,0,16.0,1,0,0,1,1,0,0,0,0,0
+What's the Pressure,Laura Tesoro,0.749,0.811,11,-2.626,1,0.099,0.0228,0.0,0.0696,0.762,117.01,2016,Belgium,English,Pop,Female,1,0,4,0,3.0,1,0,0,1,1,0,0,0,0,1
+I Want Your Love,CHIC,0.699,0.604,9,-13.404,0,0.0359,0.0185,0.073,0.0868,0.96,114.226,2015,Moldova,English,Pop,Male,1,3,2,0,11.0,1,0,1,0,1,0,0,0,0,0
+Face the Shadow,"Bear McCreary, Sparks & Shadows",0.331,0.317,0,-13.318,1,0.0312,0.697,0.929,0.113,0.0458,89.917,2015,Armenia,English,Pop,Mix,6,0,0,0,7.0,1,0,0,0,1,0,0,0,0,1
+Rhythm Inside,Calum Scott,0.592,0.622,2,-5.583,0,0.0362,0.0158,3.85e-06,0.218,0.155,120.508,2015,Belgium,English,Pop,Male,1,0,5,0,2.0,1,0,1,0,1,0,0,0,0,1
+Walk Along,Y La Bamba,0.643,0.734,5,-8.849,0,0.144,0.743,0.888,0.297,0.682,111.774,2015,Netherlands,English,Pop,Female,1,0,4,0,14.0,1,0,0,1,1,0,0,0,0,0
+Aina mun pitaa,Pertti Kurikan Nimipäivät,0.394,0.847,0,-6.208,1,0.0505,0.00116,0.0,0.364,0.801,97.019,2015,Finland,Finnish,Rock,Male,1,0,0,3,16.0,0,0,1,0,0,1,0,0,0,0
+One Last Breath,Creed,0.386,0.677,2,-5.83,1,0.0346,0.00841,0.00366,0.341,0.195,126.602,2015,Greece,English,Ballad,Female,1,0,0,1,6.0,1,0,0,1,0,0,1,0,0,1
+Goodbye to Yesterday,Tom Bailey,0.517,0.418,3,-11.598,1,0.0439,0.809,0.182,0.0824,0.0852,81.952,2015,Estonia,English,Pop,Mix,2,0,0,0,3.0,1,0,0,0,1,0,0,0,0,1
+Autumn Leaves,Nat King Cole,0.211,0.348,2,-10.12,0,0.0326,0.939,0.00052,0.384,0.0981,86.868,2015,North Macedonia,English,Pop,Male,1,0,3,0,15.0,1,0,1,0,1,0,0,0,0,0
+Beauty Never Lies,Altman Okamura,0.426,0.922,7,-9.602,1,0.0342,0.00252,0.961,0.35,0.638,169.965,2015,Serbia,English,Pop,Female,1,0,4,0,9.0,1,0,0,1,1,0,0,0,0,1
+Wars for Nothing,Boggie,0.33,0.181,2,-10.579,1,0.0354,0.839,0.0,0.18,0.238,174.051,2015,Hungary,English,Pop,Female,1,0,4,0,8.0,1,0,0,1,1,0,0,0,0,1
+Time,MGMT,0.438,0.94,2,-3.249,1,0.0452,8.74e-05,0.0777,0.3,0.421,100.99,2015,Belarus,English,Pop,Male,1,0,0,1,12.0,1,0,1,0,1,0,0,0,0,0
+A Million Voices,Unlike Pluto,0.526,0.676,1,-6.583,1,0.046,0.24,0.0,0.117,0.138,155.025,2015,Russia,English,Pop,Female,1,0,2,3,1.0,1,0,0,1,1,0,0,0,0,1
+The Way You Are,Bruno Mars,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,2015,Denmark,English,Pop,Male,1,0,2,3,13.0,1,0,1,0,1,0,0,0,0,0
+I'm Alive,Céline Dion,0.691,0.64,8,-5.087,1,0.0384,0.0247,5.24e-06,0.2,0.452,101.991,2015,Albania,English,Pop,Female,1,0,3,0,10.0,1,0,0,1,1,0,0,0,0,1
+De la capat,Voltaj,0.625,0.585,4,-5.841,1,0.025,0.449,0.0,0.131,0.251,97.999,2015,Romania,"Romanian, English",Pop,Male,1,0,0,4,5.0,0,1,1,0,1,0,0,0,0,1
+Warrior,Imagine Dragons,0.365,0.851,4,-6.238,0,0.065,0.0964,0.003,0.238,0.309,78.068,2015,Georgia,English,Pop,Female,1,0,0,0,4.0,1,0,0,1,1,0,0,0,0,1
+This Time,Jeff Bernat,0.685,0.43,4,-9.586,1,0.0324,0.723,3.04e-06,0.135,0.482,107.042,2015,Lithuania,English,Pop,Mix,2,0,4,0,7.0,1,0,0,0,1,0,0,0,0,1
+Playing with Numbers,"Greg French, Molly Sterling",0.557,0.488,0,-6.426,1,0.0274,0.274,3.58e-05,0.304,0.242,78.54,2015,Ireland,English,Ballad,Female,1,0,2,3,12.0,1,0,0,1,0,0,1,0,0,0
+Chain of Lights,Monoxide,0.649,0.619,5,-7.419,0,0.0833,0.402,0.0,0.11,0.409,91.971,2015,San Marino,English,Pop,Mix,2,0,4,0,16.0,1,0,0,0,1,0,0,0,0,0
+Adio,Christian Nodal,0.433,0.431,2,-6.422,1,0.0367,0.169,0.0,0.307,0.722,177.732,2015,Montenegro,Montenegrin,Traditional,Male,1,0,5,0,9.0,0,0,1,0,0,0,0,1,0,1
+Warrior,Imagine Dragons,0.365,0.851,4,-6.238,0,0.065,0.0964,0.003,0.238,0.309,78.068,2015,Malta,English,Ballad,Female,1,0,0,0,11.0,1,0,0,1,0,0,1,0,0,0
+A Monster Like Me,Mørland,0.305,0.308,1,-8.081,0,0.0296,0.456,0.0,0.0975,0.167,146.675,2015,Norway,English,Ballad,Mix,2,0,0,0,4.0,1,0,0,0,0,0,1,0,0,1
+Ha um mar que nos separa,Rodrigo Amarante,0.637,0.863,8,-6.711,1,0.0338,0.327,0.618,0.0756,0.974,154.034,2015,Portugal,Portuguese,Ballad,Female,1,0,4,0,14.0,0,0,0,1,0,0,1,0,0,0
+Hope Never Dies,Solarsoul,0.491,0.399,0,-14.593,1,0.0361,0.592,0.459,0.118,0.0786,89.983,2015,Czech Republic,English,Ballad,Mix,2,0,0,0,13.0,1,0,0,0,0,0,1,0,0,0
+Golden Boy,Nadav Guedj,0.706,0.834,1,-5.381,0,0.0645,0.192,0.0,0.0672,0.655,115.049,2015,Israel,English,Pop,Male,1,3,2,0,3.0,1,0,1,0,1,0,0,0,0,1
+Love Injected,Aminata,0.448,0.292,7,-10.178,0,0.0496,0.122,0.016,0.119,0.157,144.419,2015,Latvia,English,Pop,Female,1,0,3,0,2.0,1,0,0,1,1,0,0,0,0,1
+Hour of the Wolf,Surf Curse,0.69,0.516,2,-8.83,1,0.0276,0.59,0.0988,0.104,0.336,107.015,2015,Azerbaijan,English,Ballad,Male,1,2,0,0,10.0,1,0,1,0,0,0,1,0,0,1
+Unbroken,Erick Baker,0.695,0.245,4,-12.061,1,0.0494,0.742,1.03e-06,0.102,0.279,139.8,2015,Iceland,English,Pop,Female,1,0,5,0,15.0,1,0,0,1,1,0,0,0,0,0
+Heroes,David Bowie,0.489,0.758,7,-6.491,1,0.0297,0.000678,0.49,0.092,0.435,112.113,2015,Sweden,English,Pop,Male,1,0,0,0,1.0,1,0,1,0,1,0,0,0,0,1
+Time to Shine,StoryBots,0.934,0.721,1,-7.735,1,0.163,0.148,0.0,0.0827,0.954,103.015,2015,Switzerland,English,Pop,Female,1,0,0,4,17.0,1,0,0,1,1,0,0,0,0,0
+One Thing I Should Have Done,John Karayiannis,0.334,0.382,3,-8.067,1,0.0351,0.546,0.0,0.37,0.457,180.362,2015,Cyprus,English,Ballad,Male,1,0,0,0,6.0,1,0,1,0,0,0,1,0,0,1
+Here for You,Verala Lux,0.14,0.0304,10,-28.444,0,0.0406,0.955,0.824,0.112,0.0508,141.416,2015,Slovenia,English,Pop,Female,1,1,0,1,5.0,1,0,0,1,1,0,0,0,0,1
+In the Name of Love,"Martin Garrix, Bebe Rexha",0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,2015,Poland,English,Ballad,Female,1,0,3,1,8.0,1,0,0,1,0,0,1,0,0,1
+Not Alone,Linkin Park,0.682,0.766,6,-5.546,1,0.0313,0.149,3.38e-06,0.144,0.545,120.04,2014,Armenia,English,Ballad,Male,1,0,0,0,4.0,1,0,1,0,0,0,1,0,0,1
+Cake to Bake,Aarzemnieki,0.589,0.694,6,-6.532,1,0.072,0.635,0.0,0.132,0.806,197.126,2014,Latvia,English,Pop,Male,2,0,0,2,13.0,1,0,1,0,1,0,0,0,0,0
+Amazing,Carrie Underwood,0.38,0.227,9,-10.299,1,0.0329,0.889,0.0,0.165,0.328,81.443,2014,Estonia,English,Dance,Female,1,1,0,0,12.0,1,0,0,1,0,0,0,0,1,0
+Undo,Sanna Nielsen,0.58,0.493,6,-3.53,1,0.0383,0.399,0.0,0.0829,0.256,121.904,2014,Sweden,English,Ballad,Female,1,0,0,0,2.0,1,0,0,1,0,0,1,0,0,1
+No Prejudice,Pollapönk,0.707,0.931,7,-5.374,1,0.0897,0.11,0.0,0.262,0.762,108.107,2014,Iceland,English,Rock,Male,3,0,2,1,8.0,1,0,1,0,0,1,0,0,0,1
+One Night's Anger,"Kiev Virtuosi Symphony Orchestra, Dmitry Yablonsky",0.532,0.511,11,-17.481,1,0.128,0.859,0.908,0.201,0.141,88.388,2014,Albania,English,Ballad,Female,1,0,2,2,15.0,1,0,0,1,0,0,1,0,0,0
+Shine,Rihanna,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,2014,Russia,English,Pop,Female,2,0,0,0,6.0,1,0,0,1,1,0,0,0,0,1
+Start a Fire,Unspoken,0.513,0.875,1,-5.377,1,0.0495,0.00197,0.0,0.165,0.604,82.002,2014,Azerbaijan,English,Ballad,Female,1,1,0,0,9.0,1,0,0,1,0,0,1,0,0,1
+Tick-Tock,Hans Zimmer,0.261,0.231,9,-15.826,0,0.0388,0.271,0.9,0.239,0.0396,119.89,2014,Ukraine,English,Pop,Female,1,1,0,0,5.0,1,0,0,1,1,0,0,0,0,1
+Mother,Meghan Trainor,0.75,0.659,9,-6.131,1,0.0928,0.124,0.0,0.46,0.765,120.043,2014,Belgium,English,Ballad,Male,1,1,0,0,14.0,1,0,1,0,0,0,1,0,0,0
+Wild Soul,"Langhorne Slim, The Law",0.778,0.282,9,-10.735,1,0.0489,0.424,0.00923,0.211,0.407,105.571,2014,Moldova,English,Ballad,Female,1,4,0,0,16.0,1,0,0,1,0,0,1,0,0,0
+Maybe,Gabriela Bee,0.25,0.277,9,-9.696,1,0.0333,0.597,0.0,0.0786,0.317,75.38,2014,San Marino,English,Ballad,Female,2,0,0,1,10.0,1,0,0,1,0,0,1,0,0,1
+Quero ser tua,Suzy,0.741,0.92,0,-4.081,1,0.046,0.144,0.00123,0.0917,0.922,130.007,2014,Portugal,Portuguese,Pop,Female,1,2,2,1,11.0,0,0,0,1,1,0,0,0,0,0
+Calm After the Storm,Chris Remo,0.283,0.036,1,-27.994,1,0.0523,0.464,0.927,0.314,0.0337,126.415,2014,Netherlands,English,Traditional,Mix,2,0,0,3,1.0,1,0,0,0,0,0,0,1,0,1
+Moj svijet,Sergej Ćetković,0.216,0.566,0,-6.335,0,0.0338,0.208,0.0,0.115,0.228,49.879,2014,Montenegro,Montenegrin,Ballad,Male,1,1,3,0,7.0,0,0,1,0,0,0,1,0,0,1
+Running,Kate Bush,0.629,0.545,10,-13.123,0,0.0546,0.719,0.00308,0.0604,0.194,108.376,2014,Hungary,English,Pop,Male,1,2,0,0,3.0,1,0,1,0,1,0,0,0,0,1
+Coming Home,Diddy - Dirty Money,0.392,0.839,7,-1.921,1,0.193,0.158,0.0,0.3,0.232,168.001,2014,Malta,English,Traditional,Mix,2,0,0,4,9.0,1,0,0,0,0,0,0,1,0,1
+Same Heart,Keith Urban,0.522,0.731,0,-7.323,1,0.0479,0.00315,1.37e-05,0.419,0.186,93.872,2014,Israel,"English,ï¿½Hebrew",Pop,Female,1,2,0,0,14.0,0,1,0,1,1,0,0,0,0,0
+Silent Storm,Ken Navarro,0.606,0.632,10,-10.666,0,0.0307,0.585,0.892,0.235,0.848,94.989,2014,Norway,English,Ballad,Male,1,0,0,1,6.0,1,0,1,0,0,0,1,0,0,1
+Three Minutes to Earth,Down To Earth,0.464,0.912,2,-6.059,1,0.053,2.22e-05,0.792,0.101,0.355,68.973,2014,Georgia,English,Traditional,Mix,2,1,0,1,15.0,1,0,0,0,0,0,0,1,0,0
+My Slowianie ï¿½ We Are Slavic,Emapea,0.702,0.374,11,-6.503,0,0.176,0.126,0.914,0.0796,0.434,165.837,2014,Poland,"Polish, English",Traditional,Female,1,5,0,0,8.0,0,1,0,1,0,0,0,1,0,1
+Rise Like a Phoenix,Conchita Wurst,0.425,0.503,2,-6.324,0,0.0256,0.142,0.0,0.105,0.23,81.653,2014,Austria,English,Ballad,Male,1,0,0,0,1.0,1,0,1,0,0,0,1,0,0,1
+Attention,Charlie Puth,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,2014,Lithuania,English,Pop,Female,1,1,3,0,11.0,1,0,0,1,1,0,0,0,0,0
+Something Better,"Blanca, Tauren Wells",0.592,0.343,6,-8.143,1,0.0311,0.594,0.0,0.0826,0.513,92.309,2014,Finland,English,Rock,Male,1,0,0,4,3.0,1,0,1,0,0,1,0,0,0,1
+Heartbeat,Childish Gambino,0.8,0.545,1,-7.002,0,0.127,0.00369,0.000461,0.0445,0.294,119.954,2014,Ireland,English,Pop,Female,1,2,2,1,12.0,1,0,0,1,1,0,0,0,0,0
+Cheesecake,Billy Marchiafava,0.847,0.581,1,-7.187,1,0.065,0.0172,0.000293,0.091,0.423,160.108,2014,Belarus,English,Pop,Male,1,0,4,0,5.0,1,0,1,0,1,0,0,0,0,1
+To the Sky,David Hirschfelder,0.497,0.624,11,-9.065,1,0.0825,0.261,2.31e-06,0.119,0.925,175.007,2014,North Macedonia,English,Pop,Female,1,1,3,0,13.0,1,0,0,1,1,0,0,0,0,0
+Hunter of Stars,Sebalter,0.569,0.889,4,-4.432,0,0.0693,0.141,2.62e-05,0.0972,0.92,176.854,2014,Switzerland,English,Pop,Male,1,0,0,5,4.0,1,0,1,0,1,0,0,0,0,1
+Rise Up,Andra Day,0.398,0.316,1,-7.031,1,0.0368,0.805,0.0,0.295,0.174,118.582,2014,Greece,English,Dance,Male,2,0,0,1,7.0,1,0,1,0,0,0,0,0,1,1
+Round and Round,Ratt,0.628,0.934,11,-6.026,1,0.0527,0.00682,1.11e-05,0.0853,0.491,126.539,2014,Slovenia,"English,ï¿½Slovene",Pop,Female,1,0,3,0,10.0,0,1,0,1,1,0,0,0,0,1
+Miracle,"Calvin Harris, Ellie Goulding",0.636,0.869,9,-5.289,1,0.0412,0.0378,0.0446,0.0808,0.306,143.011,2014,Romania,English,Dance,Mix,2,0,0,0,2.0,1,0,0,0,0,0,0,0,1,1
+Shine,Rihanna,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,2013,Austria,English,Pop,Female,1,0,5,0,14.0,1,0,0,1,1,0,0,0,0,0
+Et uus saaks alguse,Birgit Õigemeel,0.469,0.592,5,-5.468,1,0.0274,0.766,0.0,0.0745,0.325,78.021,2013,Estonia,Estonian,Ballad,Female,1,0,3,0,10.0,0,0,0,1,0,0,1,0,0,1
+Straight Into Love,Kenny Rogers,0.589,0.448,2,-6.685,1,0.0304,0.309,0.0,0.317,0.144,78.036,2013,Slovenia,English,Dance,Female,1,3,0,0,16.0,1,0,0,1,0,0,0,0,1,0
+Mizerja,Oliver Dragojevic,0.655,0.588,0,-7.135,1,0.0268,0.177,0.0,0.381,0.609,108.745,2013,Croatia,Croatian,Traditional,Male,6,0,0,0,13.0,0,0,1,0,0,0,0,1,0,0
+Only Teardrops,Emmelie de Forest,0.586,0.855,0,-4.131,1,0.0583,0.0853,0.0,0.329,0.42,110.986,2013,Denmark,English,Pop,Female,1,0,3,2,1.0,1,0,0,1,1,0,0,0,0,1
+What If,Kane Brown,0.612,0.799,10,-4.603,1,0.0275,0.00898,0.0,0.172,0.687,125.976,2013,Russia,English,Ballad,Female,1,0,4,0,2.0,1,0,0,1,0,0,1,0,0,1
+Gravity,Brad Breeck,0.62,0.892,5,-3.406,1,0.0431,0.0326,0.971,0.348,0.922,166.124,2013,Ukraine,English,Pop,Female,1,1,4,0,3.0,1,0,0,1,1,0,0,0,0,1
+Birds,TV Girl,0.605,0.942,7,-4.549,1,0.0655,0.016,0.0,0.137,0.8,106.562,2013,Netherlands,English,Ballad,Female,1,0,3,0,6.0,1,0,0,1,0,0,1,0,0,1
+Igranka,Momo i Dodir,0.649,0.736,4,-4.019,1,0.0417,0.27,0.0,0.187,0.971,139.978,2013,Montenegro,Montenegrin,Dance,Mix,3,0,0,0,12.0,0,0,0,0,0,0,0,0,1,0
+Something,Zach Bryan,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,2013,Lithuania,English,Dance,Male,1,0,4,0,9.0,1,0,1,0,0,0,0,0,1,1
+Solayoh,Alyona Lanskaya,0.81,0.91,11,-5.104,0,0.0468,0.0198,0.00284,0.282,0.602,94.983,2013,Belarus,English,Dance,Female,1,2,3,0,7.0,1,0,0,1,0,0,0,0,1,1
+O mie,JESSIE,0.73,0.608,0,-8.937,1,0.0679,0.182,0.0,0.158,0.473,103.068,2013,Moldova,Romanian,Ballad,Female,1,3,0,1,4.0,0,0,0,1,0,0,1,0,0,1
+Only Love Survives,Ryan Dolan,0.541,0.834,0,-5.258,0,0.0663,0.00498,0.0,0.191,0.355,128.012,2013,Ireland,English,Pop,Male,1,0,2,3,8.0,1,0,1,0,1,0,0,0,0,1
+An me thimasai,Despina Olimpiou,0.582,0.419,0,-7.275,1,0.0365,0.331,0.0,0.369,0.385,128.088,2013,Cyprus,Greek,Ballad,Female,1,0,0,0,15.0,0,0,0,1,0,0,1,0,0,0
+Love Kills,King Lil G,0.756,0.641,10,-7.883,1,0.219,0.743,0.0,0.101,0.534,130.029,2013,Belgium,English,Pop,Male,1,2,3,0,5.0,1,0,1,0,1,0,0,0,0,1
+Ljubav je svuda,Tereza Kesovija,0.699,0.697,5,-7.087,1,0.0299,0.541,0.0,0.12,0.921,153.987,2013,Serbia,Serbian,Dance,Female,3,0,3,0,11.0,0,0,0,1,0,0,0,0,1,0
+Here We Go,Chris Classic,0.462,0.786,10,-10.451,0,0.0538,0.000123,0.303,0.0712,0.44,181.9,2013,Latvia,English,Dance,Male,2,0,0,2,17.0,1,0,1,0,0,0,0,0,1,0
+Crisalide (Vola),Valentina Monetta,0.348,0.831,3,-4.59,0,0.072,0.454,0.0,0.151,0.602,151.667,2013,San Marino,Italian,Ballad,Female,1,2,0,0,11.0,0,0,0,1,0,0,1,0,0,0
+Pred da se razdeni,Lozano,0.562,0.907,10,-4.441,1,0.0422,0.00343,0.0,0.331,0.276,125.015,2013,North Macedonia,"Macedonian,ï¿½Romani",Traditional,Mix,2,0,2,0,16.0,0,0,0,0,0,0,0,1,0,0
+Hold Me,Brian McKnight,0.866,0.476,0,-8.121,1,0.0522,0.0414,0.000149,0.0523,0.631,96.932,2013,Azerbaijan,English,Ballad,Male,1,2,0,0,1.0,1,0,1,0,0,0,1,0,0,1
+Marry Me,Train,0.461,0.267,0,-8.514,1,0.0278,0.834,2.03e-05,0.107,0.481,87.918,2013,Finland,English,Pop,Female,1,3,2,0,9.0,1,0,0,1,1,0,0,0,0,1
+Tomorrow,"Original Motion Picture Cast of ""Annie""",0.444,0.304,4,-14.549,1,0.0292,0.519,0.000187,0.745,0.676,81.035,2013,Malta,English,Pop,Male,1,0,3,0,4.0,1,0,1,0,1,0,0,0,0,1
+Samo shampioni,Bassnectar,0.452,0.857,11,-4.135,0,0.0355,0.000149,0.823,0.486,0.15,150.069,2013,Bulgaria,Bulgarian,Traditional,Mix,2,0,3,0,12.0,0,0,0,0,0,0,0,1,0,0
+Eg a lif,Various Artists,0.513,0.317,4,-9.439,1,0.0276,0.534,0.0,0.131,0.361,75.012,2013,Iceland,Icelandic,Traditional,Male,1,0,0,0,6.0,0,0,1,0,0,0,0,1,0,1
+Alcohol Is Free,Koza Mostra,0.573,0.939,2,-4.336,0,0.0399,0.0071,0.0,0.0319,0.725,172.01,2013,Greece,Greek1,Traditional,Male,4,0,0,2,2.0,0,0,1,0,0,0,0,1,0,1
+Rak Bishvilo,Moshe Tischler,0.7,0.815,0,-3.181,1,0.0424,0.182,0.0,0.102,0.756,123.938,2013,Israel,Hebrew,Ballad,Female,1,0,2,1,14.0,0,0,0,1,0,0,1,0,0,0
+Lonely Planet,New York Dolls,0.477,0.528,2,-14.751,1,0.033,0.129,0.108,0.0944,0.564,119.569,2013,Armenia,English,Rock,Male,1,0,0,4,7.0,1,0,1,0,0,1,0,0,0,1
+Kedvesem (Zoohacker Remix),ByeAlex,0.657,0.642,5,-7.11,1,0.0685,0.432,0.0,0.155,0.57,171.785,2013,Hungary,Hungarian,Pop,Male,1,0,1,1,8.0,0,0,1,0,1,0,0,0,0,1
+I Feed You My Love,Margaret Berger,0.517,0.944,11,-5.685,0,0.141,0.00226,0.000255,0.211,0.283,95.976,2013,Norway,English,Dance,Female,1,0,3,1,3.0,1,0,0,1,0,0,0,0,1,1
+Identitet,Macha Ravel,0.778,0.326,7,-13.578,0,0.32,0.725,7.37e-06,0.127,0.628,140.015,2013,Albania,Albanian,Rock,Male,2,0,0,3,15.0,0,0,1,0,0,1,0,0,0,0
+Waterfall,TLC,0.769,0.505,1,-7.345,1,0.0829,0.311,7.49e-05,0.0777,0.757,171.804,2013,Georgia,English,Ballad,Mix,2,0,3,0,10.0,1,0,0,0,0,0,1,0,0,1
+You and Me,Lifehouse,0.459,0.427,7,-7.734,1,0.0267,0.114,0.0,0.168,0.354,139.902,2013,Switzerland,English,Pop,Mix,2,0,0,4,13.0,1,0,0,0,1,0,0,0,0,0
+It's My Life,Bon Jovi,0.551,0.913,0,-4.063,0,0.0466,0.0263,1.35e-05,0.347,0.544,119.992,2013,Romania,English,Dance,Male,1,3,0,0,5.0,1,0,1,0,0,0,0,0,1,1
+Euro Neuro,Stereo Total,0.692,0.954,2,-4.308,1,0.0397,0.187,0.0118,0.15,0.957,163.027,2012,Montenegro,English,Traditional,Male,1,0,3,2,15.0,1,0,1,0,0,0,0,1,0,0
+Never Forget,Zara Larsson,0.583,0.732,11,-5.728,0,0.0457,0.00312,9.86e-06,0.269,0.276,145.992,2012,Iceland,English,Ballad,Mix,2,0,4,0,8.0,1,0,0,0,0,0,1,0,0,1
+Aphrodisiac,IAMX,0.646,0.904,2,-8.253,1,0.0961,0.0199,6.6e-06,0.0693,0.449,120.027,2012,Greece,English,Dance,Female,1,4,1,0,4.0,1,0,0,1,0,0,0,0,1,1
+Beautiful Song,Anne Trenning,0.291,0.281,2,-12.224,1,0.0354,0.977,0.889,0.119,0.204,97.577,2012,Latvia,English,Pop,Female,1,0,4,0,16.0,1,0,0,1,1,0,0,0,0,0
+Suus3,La Bamba,0.674,0.818,5,-5.333,1,0.0325,0.0737,0.0,0.0548,0.776,127.024,2012,Albania,Albanian,Ballad,Female,1,0,0,0,2.0,0,0,0,1,0,0,1,0,0,1
+Zaleilah,Mandinga,0.691,0.819,0,-4.722,1,0.0505,0.0264,0.000641,0.32,0.812,126.989,2012,Romania,"Spanish, English",Dance,Female,1,0,0,5,3.0,0,1,0,1,0,0,0,0,1,1
+Unbreakable,Various Artists,0.38,0.694,7,-4.711,1,0.0943,0.331,0.0,0.0804,0.252,200.414,2012,Switzerland,English,Rock,Male,1,0,0,3,11.0,1,0,1,0,0,1,0,0,0,0
+Would You?,Richard Swift,0.418,0.549,2,-10.752,1,0.0353,0.172,5.46e-05,0.054,0.361,113.621,2012,Belgium,English,Ballad,Female,1,0,3,0,17.0,1,0,0,1,0,0,1,0,0,0
+Nar jag blundar,Daniel Adams-Ray,0.589,0.497,7,-8.934,1,0.087,0.0302,7.36e-05,0.124,0.462,85.99,2012,Finland,Swedish,Ballad,Female,1,0,0,1,12.0,0,0,0,1,0,0,1,0,0,0
+Time,MGMT,0.438,0.94,2,-3.249,1,0.0452,8.74e-05,0.0777,0.3,0.421,100.99,2012,Israel,"English,ï¿½Hebrew",Pop,Male,1,0,2,3,13.0,0,1,1,0,1,0,0,0,0,0
+The Social Network Song (Oh Oh ï¿½ Uh - Oh Oh),Trent Reznor and Atticus Ross,0.204,0.154,2,-25.379,1,0.0421,0.971,0.945,0.103,0.0389,114.21,2012,San Marino,English,Dance,Female,1,0,4,1,14.0,1,0,0,1,0,0,0,0,1,0
+La La Love,WJSN,0.624,0.91,7,-2.246,1,0.085,0.0318,1.68e-06,0.246,0.516,120.967,2012,Cyprus,English,Dance,Female,1,4,1,0,7.0,1,0,0,1,0,0,0,0,1,1
+Should've Known Better,Richard Marx,0.548,0.704,8,-13.061,1,0.0402,0.0751,0.00051,0.0463,0.682,169.119,2012,Denmark,English,Rock,Female,1,0,1,4,9.0,1,0,0,1,0,1,0,0,0,1
+Party for Everybody,Buranovskie Babushki,0.655,0.849,0,-5.029,0,0.127,0.187,0.0,0.346,0.619,125.964,2012,Russia,"Udmurt, English",Dance,Female,6,0,0,0,1.0,0,1,0,1,0,0,0,0,1,1
+Sound of Our Hearts,Compact Disco,0.411,0.798,11,-4.269,0,0.0379,0.0186,7.66e-06,0.166,0.276,159.936,2012,Hungary,English,Pop,Male,1,0,1,4,10.0,1,0,1,0,1,0,0,0,0,1
+Woki mit deim Popo,Trackshittaz,0.869,0.846,0,-2.094,1,0.0402,0.0404,0.0,0.418,0.892,121.009,2012,Austria,German5,Dance,Male,2,3,0,0,18.0,0,0,1,0,0,0,0,0,1,0
+Lautar,Pasha Parfeni,0.664,0.856,7,-4.247,0,0.0571,0.106,0.0,0.214,0.6,107.044,2012,Moldova,English6,Pop,Male,1,3,2,0,5.0,0,1,1,0,1,0,0,0,0,1
+Waterline,Four80East,0.638,0.562,1,-10.083,1,0.0268,0.732,0.881,0.116,0.832,93.988,2012,Ireland,English,Dance,Male,2,0,4,0,6.0,1,0,1,0,0,0,0,0,1,1
+Nije ljubav stvarï¿½,Željko Joksimović,0.31,0.457,1,-6.12,0,0.0325,0.805,0.0,0.104,0.377,106.21,2012,Serbia,Serbian,Ballad,Male,1,0,0,5,2.0,0,0,1,0,0,0,1,0,0,1
+Crno i belo,Kaliopi,0.574,0.624,2,-6.583,0,0.305,0.33,0.0,0.0821,0.184,129.948,2012,North Macedonia,Macedonian,Rock,Female,1,0,0,5,9.0,0,0,0,1,0,1,0,0,0,1
+You and Me,Lifehouse,0.459,0.427,7,-7.734,1,0.0267,0.114,0.0,0.168,0.354,139.902,2012,Netherlands,English,Pop,Female,1,0,0,1,15.0,1,0,0,1,1,0,0,0,0,0
+This Is the Night,Mauritio Paladora,0.626,0.849,0,-8.203,1,0.0473,0.0543,0.596,0.149,0.797,123.858,2012,Malta,English,Dance,Male,1,1,0,4,7.0,1,0,1,0,0,0,0,0,1,1
+We Are the Heroes,Dee & Friends,0.605,0.641,7,-7.409,1,0.205,0.169,0.0,0.192,0.712,191.965,2012,Belarus,English,Dance,Male,1,0,0,4,16.0,1,0,1,0,0,0,0,0,1,0
+Vida minha,Daniel,0.461,0.594,0,-5.217,1,0.0299,0.118,0.0,0.392,0.505,74.923,2012,Portugal,Portuguese,Ballad,Female,1,0,5,0,13.0,0,0,0,1,0,0,1,0,0,0
+Be My Guest,VoxFox,0.506,0.693,9,-6.394,1,0.0319,0.00438,2.31e-05,0.116,0.644,140.055,2012,Ukraine,English,Dance,Female,1,0,0,4,8.0,1,0,0,1,0,0,0,0,1,1
+Love Unlimited,Barry White,0.583,0.557,5,-7.027,1,0.0338,0.416,0.00109,0.575,0.523,94.852,2012,Bulgaria,Bulgarian,Dance,Female,1,0,0,0,11.0,0,0,0,1,0,0,0,0,1,0
+Verjamem,Eva Boto,0.362,0.538,5,-6.361,0,0.0289,0.308,0.0,0.114,0.117,131.96,2012,Slovenia,Slovene,Ballad,Female,1,0,5,0,17.0,0,0,0,1,0,0,1,0,0,0
+Nebo,Beks,0.82,0.785,5,-4.189,1,0.207,0.41,0.0,0.0513,0.845,94.297,2012,Croatia,Croatian,Ballad,Female,1,2,3,0,12.0,0,0,0,1,0,0,1,0,0,0
+Euphoria,Robert Grace,0.569,0.853,3,-5.604,1,0.0624,0.212,0.0,0.115,0.574,169.883,2012,Sweden,English,Dance,Female,1,1,0,0,1.0,1,0,0,1,0,0,0,0,1,1
+I'm a Joker,My 70's Hits Machine,0.646,0.587,5,-5.587,1,0.0455,0.0721,0.00159,0.148,0.76,81.676,2012,Georgia,"English,ï¿½Georgian",Pop,Male,1,1,4,0,14.0,0,1,1,0,1,0,0,0,0,0
+Love Me Back,"Trinidad Cardona, Robinson",0.602,0.612,8,-8.115,1,0.0465,0.0325,0.00943,0.147,0.692,95.161,2012,Turkey,English,Traditional,Male,1,5,0,0,5.0,1,0,1,0,0,0,0,1,0,1
+Kuula,Ott Lepland,0.354,0.445,5,-7.234,1,0.0323,0.204,8.98e-06,0.119,0.165,128.735,2012,Estonia,Estonian,Ballad,Male,1,0,1,0,4.0,0,0,1,0,0,0,1,0,0,1
+Don't Close Your Eyes,Keith Whitley,0.605,0.228,7,-16.116,1,0.0267,0.703,0.00198,0.0936,0.285,78.31,2012,Slovakia,English,Rock,Male,1,0,0,4,18.0,1,0,1,0,0,1,0,0,0,0
+Stay,Various Artists,0.382,0.836,9,-5.661,0,0.403,0.0725,0.0,0.23,0.444,201.776,2012,Norway,English,Dance,Male,1,4,1,0,10.0,1,0,1,0,0,0,0,0,1,1
+Korake ti znam,Maya Sar,0.379,0.347,9,-7.503,1,0.0321,0.715,0.0,0.244,0.436,122.308,2012,Bosnia and Herzegovina,Bosnian,Ballad,Female,1,0,0,0,6.0,0,0,0,1,0,0,1,0,0,1
+Love Is Blind,Eve,0.688,0.815,0,-4.761,1,0.321,0.263,0.0,0.151,0.587,176.087,2012,Lithuania,English,Ballad,Male,1,0,0,0,3.0,1,0,1,0,0,0,1,0,0,1
+Jestem,Dwa Sławy,0.519,0.474,11,-9.684,1,0.147,0.699,0.0,0.124,0.12,125.114,2011,Poland,Polish,Pop,Female,1,2,3,0,19.0,0,0,0,1,1,0,0,0,0,0
+Haba Haba,Shadia,0.428,0.472,2,-10.042,0,0.0674,0.684,0.0,0.404,0.383,118.883,2011,Norway,"English,ï¿½Swahili",Pop,Female,1,0,5,0,17.0,0,1,0,1,1,0,0,0,0,0
+Feel the Passion,Yuzo Koshiro,0.371,0.981,7,-8.455,0,0.0542,5.44e-06,0.981,0.319,0.66,141.986,2011,Albania,English,Rock,Female,1,0,3,2,14.0,1,0,0,1,0,1,0,0,0,0
+Boom Boom,Black Eyed Peas,0.866,0.857,9,-5.894,1,0.0664,0.13,0.0017,0.13,0.408,130.049,2011,Armenia,English,Pop,Female,1,0,5,0,12.0,1,0,0,1,1,0,0,0,0,0
+Live It Up,Various Artists,0.584,0.851,1,-3.392,1,0.0419,0.0185,0.0,0.0976,0.875,122.015,2011,Turkey,English,Rock,Male,1,1,0,4,13.0,1,0,1,0,0,1,0,0,0,0
+Caroban,Pavel,0.504,0.47,7,-9.68,1,0.0254,0.384,0.0649,0.178,0.261,134.146,2011,Serbia,Serbian,Pop,Female,1,0,3,0,8.0,0,0,0,1,1,0,0,0,0,1
+Get You,Daniel Caesar,0.658,0.294,4,-8.533,0,0.0321,0.422,5.2e-05,0.0749,0.358,74.038,2011,Russia,"English, Russian",Pop,Male,1,3,0,0,9.0,0,1,1,0,1,0,0,0,0,1
+In Love for a While,Anna Rossinelli,0.761,0.398,9,-6.472,1,0.0375,0.251,0.0,0.0976,0.652,127.919,2011,Switzerland,English,Pop,Female,1,0,0,2,10.0,1,0,0,1,1,0,0,0,0,1
+One More Day,"Lena Raine, Minecraft",0.244,0.045,0,-24.717,1,0.0373,0.975,0.783,0.112,0.0385,69.523,2011,Georgia,English,Rock,Female,1,0,0,5,6.0,1,0,0,1,0,1,0,0,0,1
+Da Da Dam,Paradise Oskar,0.491,0.509,2,-8.374,1,0.0295,0.173,5e-06,0.301,0.183,72.964,2011,Finland,English,Pop,Male,1,0,0,0,3.0,1,0,1,0,1,0,0,0,0,1
+One Life,Ed Sheeran,0.573,0.593,6,-7.225,1,0.0299,0.114,2.65e-06,0.122,0.425,159.978,2011,Malta,English,Pop,Male,1,2,3,0,11.0,1,0,1,0,1,0,0,0,0,0
+Stand By,Ben E. King,0.65,0.306,9,-9.443,1,0.0393,0.57,7.07e-06,0.0707,0.605,118.068,2011,San Marino,English,Ballad,Female,1,0,3,2,16.0,1,0,0,1,0,0,1,0,0,0
+Celebrate,Kool & The Gang,0.885,0.664,1,-11.795,1,0.0524,0.145,0.0483,0.0767,0.906,121.632,2011,Croatia,English,Dance,Female,1,0,4,1,15.0,1,0,0,1,0,0,0,0,1,0
+Coming Home,Diddy - Dirty Money,0.392,0.839,7,-1.921,1,0.193,0.158,0.0,0.3,0.232,168.001,2011,Iceland,English,Pop,Male,6,0,0,0,4.0,1,0,1,0,1,0,0,0,0,1
+What About My Dreams?,Casanovas,0.6,0.882,0,-2.781,1,0.0448,0.103,0.0,0.0891,0.53,126.986,2011,Hungary,"English,ï¿½Hungarian",Dance,Female,1,3,2,0,7.0,0,1,0,1,0,0,0,0,1,1
+A luta e alegria,Edson Amaral,0.837,0.784,0,-3.438,1,0.186,0.273,0.0,0.266,0.942,146.071,2011,Portugal,Portuguese,Pop,Mix,6,0,0,0,18.0,0,0,0,0,1,0,0,0,0,0
+C'est ma vie,Salvatore Adamo,0.406,0.724,9,-9.307,1,0.0532,0.0776,0.0,0.303,0.576,93.564,2011,Lithuania,English,Ballad,Female,1,0,0,0,5.0,1,0,0,1,0,0,1,0,0,1
+Running Scared,Roy Orbison,0.572,0.392,9,-10.555,1,0.0325,0.778,0.000435,0.15,0.381,128.255,2011,Azerbaijan,English,Ballad,Mix,2,0,4,0,2.0,1,0,0,0,0,0,1,0,0,1
+Watch My Dance,Soulja Boy,0.692,0.388,9,-8.173,1,0.524,0.177,0.0,0.125,0.438,169.558,2011,Greece,"English,ï¿½Greek",Pop,Male,2,3,1,0,1.0,0,1,1,0,1,0,0,0,0,1
+Love in Rewind,Dino Merlin,0.526,0.722,6,-6.165,0,0.0317,0.506,0.0,0.0573,0.348,84.103,2011,Bosnia and Herzegovina,English,Pop,Male,1,0,0,5,5.0,1,0,1,0,1,0,0,0,0,1
+The Secret Is Love,"Bahamas, The Secret Sisters",0.654,0.354,9,-7.026,1,0.0317,0.673,0.0177,0.126,0.598,133.108,2011,Austria,English,Ballad,Female,1,0,5,0,7.0,1,0,0,1,0,0,1,0,0,1
+Never Alone,BarlowGirl,0.241,0.477,7,-5.804,1,0.0346,0.0119,5.38e-05,0.121,0.214,195.667,2011,Netherlands,English,Ballad,Male,1,0,3,2,19.0,1,0,1,0,0,0,1,0,0,0
+With Love Baby,Drake,0.767,0.438,7,-8.726,0,0.29,0.181,0.0,0.142,0.381,86.975,2011,Belgium,English,Pop,Mix,6,0,0,0,11.0,1,0,0,0,1,0,0,0,0,0
+I'm Still Alive,Saving Abel,0.424,0.835,5,-5.211,1,0.0441,0.00175,0.0,0.104,0.384,151.917,2011,Slovakia,English,Ballad,Female,2,0,2,2,13.0,1,0,0,1,0,0,1,0,0,0
+Angel,Amaarae,0.799,0.682,5,-5.973,0,0.128,0.242,0.272,0.143,0.538,140.052,2011,Ukraine,English,Ballad,Female,1,1,1,0,6.0,1,0,0,1,0,0,1,0,0,1
+So Lucky,"Riesling, Zach Alwin",0.644,0.672,10,-7.115,1,0.0338,0.7,0.0,0.631,0.304,115.06,2011,Moldova,English,Rock,Male,1,1,0,4,10.0,1,0,1,0,0,1,0,0,0,1
+Popular,"The Weeknd, Madonna",0.855,0.678,1,-6.276,1,0.189,0.0569,3.69e-05,0.412,0.852,99.029,2011,Sweden,English,Dance,Male,1,3,2,0,1.0,1,0,1,0,0,0,0,0,1,1
+San aggelos s'agapisa,Stelios Rokkos,0.464,0.389,8,-9.895,0,0.0374,0.526,0.0,0.111,0.205,131.843,2011,Cyprus,Greek,Pop,Male,4,0,1,1,18.0,0,0,1,0,1,0,0,0,0,0
+Na inat,Intocable,0.609,0.665,8,-6.577,1,0.0333,0.495,0.0,0.0907,0.904,152.116,2011,Bulgaria,Bulgarian,Rock,Female,1,0,0,5,12.0,0,0,0,1,0,1,0,0,0,0
+Rusinka,BAANDIT!,0.388,0.0553,9,-21.41,1,0.0462,0.965,0.882,0.113,0.317,131.1,2011,North Macedonia,"Macedonian, English",Pop,Male,1,5,0,0,16.0,0,1,1,0,1,0,0,0,0,0
+Ding Dong,Lizz Robinett,0.624,0.588,8,-5.525,0,0.0311,0.357,0.0,0.216,0.615,119.984,2011,Israel,"Hebrew, English",Pop,Female,1,0,5,0,15.0,0,1,0,1,1,0,0,0,0,0
+No One,Alicia Keys,0.644,0.549,1,-5.415,0,0.0285,0.0209,8.85e-06,0.134,0.167,90.04,2011,Slovenia,English,Ballad,Female,1,0,4,0,3.0,1,0,0,1,0,0,1,0,0,1
+Change,Deftones,0.269,0.853,7,-4.647,0,0.0854,0.000249,0.000246,0.118,0.179,141.581,2011,Romania,English,Pop,Male,1,0,0,4,4.0,1,0,1,0,1,0,0,0,0,1
+Rockefeller Street,Getter Jaani,0.659,0.936,2,-3.519,1,0.0606,0.283,0.0207,0.192,0.884,161.983,2011,Estonia,English,Pop,Female,1,3,2,0,9.0,1,0,0,1,1,0,0,0,0,1
+I Love Belarus,Babz On The Track,0.585,0.321,4,-7.763,1,0.0529,0.000557,0.876,0.105,0.838,88.145,2011,Belarus,English,Pop,Female,1,0,4,1,14.0,1,0,0,1,1,0,0,0,0,0
+Angel in Disguise,Brandy,0.625,0.643,1,-6.773,0,0.0307,0.0301,0.00233,0.347,0.593,140.135,2011,Latvia,English,Pop,Male,2,0,4,0,17.0,1,0,1,0,1,0,0,0,0,0
+New Tomorrow,TOMORROW X TOGETHER,0.762,0.791,2,-5.267,1,0.102,0.015,2.49e-06,0.312,0.393,120.015,2011,Denmark,English,Rock,Male,1,0,2,3,2.0,1,0,1,0,0,1,0,0,0,1
+Lipstick,Charlie Puth,0.783,0.451,5,-9.195,1,0.0607,0.36,2.11e-06,0.0975,0.622,92.483,2011,Ireland,English,Pop,Male,2,0,4,0,8.0,1,0,1,0,1,0,0,0,0,1
+Lost and Forgotten,Tatami Construct,0.202,0.141,9,-22.423,0,0.0495,0.779,0.86,0.0989,0.0704,60.416,2010,Russia,English,Ballad,Male,1,0,0,5,7.0,1,0,1,0,0,0,1,0,0,1
+Siren,Kailee Morgue,0.603,0.512,10,-6.687,0,0.0402,0.454,0.00014,0.154,0.271,145.91,2010,Estonia,English,Pop,Male,1,0,4,1,14.0,1,0,1,0,1,0,0,0,0,0
+Horehronie,Ukulele Portal Collaboration Album,0.641,0.242,9,-12.168,0,0.357,0.921,1.96e-05,0.132,0.654,87.988,2010,Slovakia,Slovak,Traditional,Female,1,4,1,0,16.0,0,0,0,1,0,0,0,1,0,0
+Tyolki ellaa,Kuunkuiskaajat,0.575,0.492,9,-5.809,0,0.0419,0.773,0.0,0.0569,0.804,110.174,2010,Finland,Finnish,Traditional,Female,2,0,2,1,11.0,0,0,0,1,0,0,0,1,0,0
+What For?,Yarn,0.637,0.638,0,-10.115,1,0.0278,0.0625,8.71e-05,0.101,0.64,95.267,2010,Latvia,English,Ballad,Female,1,0,4,0,17.0,1,0,0,1,0,0,1,0,0,0
+Ovo je Balkan,Milan Stankovic,0.809,0.658,7,-10.371,0,0.0602,0.108,1.67e-05,0.592,0.967,105.028,2010,Serbia,Serbian,Pop,Male,1,2,2,0,5.0,0,0,1,0,1,0,0,0,0,1
+Thunder and Lightning,Vo Williams,0.582,0.91,2,-7.792,1,0.0711,0.0502,0.0,0.108,0.364,159.998,2010,Bosnia and Herzegovina,English,Rock,Male,1,0,5,0,8.0,1,0,1,0,0,1,0,0,0,1
+Legenda,Rio Da Yung Og,0.849,0.329,1,-11.032,1,0.131,0.0326,0.0,0.221,0.43,96.528,2010,Poland,"English,ï¿½Polish",Ballad,Male,1,2,3,0,13.0,0,1,1,0,0,0,1,0,0,0
+Me and My Guitar,A Boogie Wit da Hoodie,0.644,0.587,7,-6.736,0,0.353,0.473,0.0,0.0759,0.68,173.972,2010,Belgium,English,Pop,Male,1,0,0,0,1.0,1,0,1,0,1,0,0,0,0,1
+My Dream,NACHERRY,0.566,0.898,5,-3.315,1,0.0659,0.0803,0.0,0.334,0.747,89.451,2010,Malta,English,Ballad,Female,1,1,3,0,12.0,1,0,0,1,0,0,1,0,0,0
+It's All About You,Randall Peterson,0.455,0.0249,3,-24.569,1,0.065,0.994,0.955,0.0991,0.194,93.838,2010,Albania,English,Pop,Female,1,0,3,1,6.0,1,0,0,1,1,0,0,0,0,1
+OPA,Dillom,0.931,0.612,8,-5.446,0,0.194,0.125,4.09e-05,0.088,0.846,100.023,2010,Greece,Greek1,Pop,Male,1,0,4,0,2.0,0,0,1,0,1,0,0,0,0,1
+Ha dias assim,Rádio Macau,0.537,0.709,4,-11.813,1,0.0481,0.0632,6.42e-06,0.209,0.533,126.447,2010,Portugal,Portuguese,Ballad,Female,1,0,3,1,4.0,0,0,0,1,0,0,1,0,0,1
+Jas ja imam silata,Jassa Dhillon,0.663,0.801,9,-4.562,1,0.0408,0.575,0.0,0.146,0.343,74.979,2010,North Macedonia,Macedonian,Pop,Male,1,2,2,1,15.0,0,0,1,0,1,0,0,0,0,0
+Butterflies,Piper Rockelle,0.798,0.629,11,-4.974,0,0.0399,0.00764,0.0411,0.072,0.333,100.955,2010,Belarus,English,Ballad,Mix,5,0,0,1,9.0,1,0,0,0,0,0,1,0,0,1
+Je ne sais quoi,ODD EYE CIRCLE (ARTMS),0.621,0.787,6,-4.783,0,0.0747,0.115,0.0,0.0719,0.65,115.005,2010,Iceland,English,Dance,Female,1,0,5,0,3.0,1,0,0,1,0,0,0,0,1,1
+Eastern European Funk,InCulto,0.832,0.76,9,-6.558,1,0.0491,0.0328,0.0,0.183,0.932,133.962,2010,Lithuania,English,Dance,Male,5,0,0,0,12.0,1,0,1,0,0,0,0,0,1,0
+Apricot Stone,Eva Rivas,0.595,0.671,11,-8.807,0,0.102,0.251,0.0,0.161,0.384,101.006,2010,Armenia,English,Pop,Female,1,1,3,1,6.0,1,0,0,1,1,0,0,0,0,1
+Milim,Various Artists,0.551,0.49,10,-4.244,1,0.0279,0.48,0.0364,0.4,0.657,109.959,2010,Israel,Hebrew,Ballad,Male,1,0,2,1,8.0,0,0,1,0,0,0,1,0,0,1
+In a Moment Like This,Chanée & n'evergreen,0.659,0.767,6,-5.306,1,0.0279,0.277,0.0,0.0985,0.393,95.036,2010,Denmark,English,Pop,Mix,2,0,4,0,5.0,1,0,0,0,1,0,0,0,0,1
+Il pleut de l'or,SOLEIL ROUGE,0.803,0.597,0,-4.96,1,0.0779,0.0453,0.035,0.0628,0.386,116.051,2010,Switzerland,French,Pop,Male,1,0,3,1,17.0,0,0,1,0,1,0,0,0,0,0
+This Is My Life,"HoneyLuv, Roland Clark",0.757,0.89,6,-7.594,0,0.0478,0.00201,0.0074,0.121,0.465,128.023,2010,Sweden,English,Pop,Female,1,0,5,0,11.0,1,0,0,1,1,0,0,0,0,0
+Drip Drop,Tom D. Waters,0.167,0.999,10,-13.123,0,0.323,0.0824,0.984,0.788,0.0139,104.51,2010,Azerbaijan,English,Ballad,Female,1,1,3,0,2.0,1,0,0,1,0,0,1,0,0,1
+Sweet People,ALYOSHA,0.634,0.407,4,-6.469,0,0.0397,0.718,1.02e-06,0.138,0.118,119.929,2010,Ukraine,English,Ballad,Female,1,0,0,0,7.0,1,0,0,1,0,0,1,0,0,1
+Ik ben verliefd,#LikeMe Cast,0.721,0.499,9,-9.937,1,0.0352,0.55,0.0,0.134,0.662,120.992,2010,Netherlands,Dutch,Pop,Female,1,0,3,2,14.0,0,0,0,1,1,0,0,0,0,0
+Playing with Fire,BLACKPINK,0.706,0.756,4,-4.405,0,0.0845,0.0392,0.0,0.18,0.676,97.098,2010,Romania,English,Pop,Mix,2,0,4,0,4.0,1,0,0,0,1,0,0,0,0,1
+Narodnozabavni rock,Djordje Balasevic,0.607,0.54,9,-7.559,0,0.0308,0.594,0.0,0.0836,0.442,98.667,2010,Slovenia,Slovene,Rock,Mix,2,0,0,4,16.0,0,0,0,0,0,1,0,0,0,0
+It's for You,"Pat Metheny, Lyle Mays",0.253,0.302,1,-17.193,1,0.0395,0.865,0.686,0.0837,0.0879,109.125,2010,Ireland,English,Ballad,Female,1,0,4,0,9.0,1,0,0,1,0,0,1,0,0,1
+Angel si ti,Toše Proeski,0.756,0.817,9,-5.207,0,0.0737,0.201,0.0,0.109,0.728,135.02,2010,Bulgaria,"Bulgarian, English",Pop,Male,1,4,0,0,15.0,0,1,1,0,1,0,0,0,0,0
+Life Looks Better in Spring,The Islanders,0.544,0.544,0,-9.376,1,0.0327,0.201,0.0,0.151,0.443,151.996,2010,Cyprus,English,Pop,Male,1,0,2,3,10.0,1,0,1,0,1,0,0,0,0,1
+Lako je sve,Prljavo Kazaliste,0.697,0.974,7,-7.901,1,0.0649,0.129,0.00215,0.217,0.0805,119.957,2010,Croatia,Croatian,Ballad,Female,3,2,0,0,13.0,0,0,0,1,0,0,1,0,0,0
+Shine,Rihanna,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,2010,Georgia,English,Ballad,Female,1,3,2,0,3.0,1,0,0,1,0,0,1,0,0,1
+We Could Be the Same,maNga,0.661,0.887,2,-4.258,0,0.0413,0.0388,0.0,0.0441,0.745,133.018,2010,Turkey,English,Rock,Male,1,0,0,4,1.0,1,0,1,0,0,1,0,0,0,1
+Aven Romale,Gipsy.cz,0.795,0.838,10,-6.972,0,0.464,0.196,2.91e-06,0.235,0.687,154.161,2009,Czech Republic,"English,ï¿½Romani",Traditional,Male,1,0,0,5,18.0,0,1,1,0,0,0,0,1,0,0
+Copycat,Billie Eilish,0.679,0.388,4,-10.977,0,0.0932,0.353,9.25e-05,0.341,0.234,124.909,2009,Belgium,English,Pop,Male,1,0,2,2,17.0,1,0,1,0,1,0,0,0,0,0
+Eyes That Never Lie,Petr Elfimov,0.389,0.902,2,-3.951,0,0.05,0.00397,0.0,0.342,0.256,137.85,2009,Belarus,English,Rock,Male,1,1,2,1,13.0,1,0,1,0,0,1,0,0,0,0
+La voix,BOLEMVN,0.78,0.525,10,-10.23,0,0.326,0.543,0.000156,0.0656,0.776,120.055,2009,Sweden,"French, English",Traditional,Female,1,5,0,0,4.0,0,1,0,1,0,0,0,1,0,1
+Jan Jan,Tatev Asatryan,0.622,0.917,2,-4.711,1,0.0658,0.173,0.0,0.232,0.894,185.984,2009,Armenia,"English,ï¿½Armenian",Traditional,Female,2,4,0,0,5.0,0,1,0,1,0,0,0,1,0,1
+La teva decisio (Get a Life),Susanne Georgi,0.768,0.402,2,-15.591,1,0.0514,0.068,0.000723,0.0973,0.924,132.976,2009,Andorra,"Catalan, English",Pop,Female,1,0,2,2,15.0,0,1,0,1,1,0,0,0,0,0
+The Highest Heights,Lovebugs,0.466,0.927,2,-4.381,0,0.0405,0.00764,0.0299,0.376,0.289,117.943,2009,Switzerland,English,Rock,Male,1,0,0,4,14.0,1,0,1,0,0,1,0,0,0,0
+Dum Tek Tek,Hadise,0.747,0.967,5,-3.691,1,0.0561,0.133,2.54e-05,0.0831,0.874,115.021,2009,Turkey,English,Dance,Female,1,2,2,0,2.0,1,0,0,1,0,0,0,0,1,1
+There Must Be Another Way,Iasmin Hallac,0.581,0.481,0,-10.045,1,0.0278,0.72,0.00487,0.0964,0.454,134.007,2009,Israel,"English,ï¿½Hebrew,ï¿½Arabic",Pop,Female,2,0,0,3,7.0,0,1,0,1,1,0,0,0,0,1
+Illusion,Austin Moon,0.684,0.847,3,-5.575,0,0.0386,0.0334,0.0,0.192,0.931,116.029,2009,Bulgaria,English,Dance,Mix,4,2,0,0,16.0,1,0,0,0,0,0,0,0,1,0
+Is It True?,Tame Impala,0.731,0.664,0,-5.474,1,0.0302,0.00307,0.35,0.133,0.661,118.018,2009,Iceland,English,Ballad,Female,1,0,3,2,1.0,1,0,0,1,0,0,1,0,0,1
+Nesto sto kje ostane,"Stoja, Grand Production",0.771,0.643,5,-7.692,0,0.0363,0.018,0.0,0.0914,0.829,130.042,2009,North Macedonia,Macedonian,Rock,Male,1,0,0,5,10.0,0,0,1,0,0,1,0,0,0,1
+The Balkan Girls,Elena,0.717,0.855,5,-4.474,1,0.0302,0.0215,0.000232,0.0466,0.634,130.093,2009,Romania,English,Dance,Female,1,4,0,0,9.0,1,0,0,1,0,0,0,0,1,1
+Lose Control,Teddy Swims,0.561,0.604,9,-4.409,1,0.0337,0.199,1.9e-05,0.104,0.242,159.92,2009,Finland,English,Pop,Male,1,2,3,0,12.0,1,0,1,0,1,0,0,0,0,0
+Todas as ruas do amor,Flor-de-Lis,0.589,0.614,7,-6.346,1,0.0398,0.36,0.0,0.113,0.413,96.997,2009,Portugal,Portuguese,Traditional,Female,1,0,0,5,8.0,0,0,0,1,0,0,0,1,0,1
+What If We,Steve Murillo,0.635,0.478,7,-8.939,1,0.0565,0.24,6.88e-05,0.26,0.597,114.978,2009,Malta,English,Ballad,Female,1,0,0,0,6.0,1,0,0,1,0,0,1,0,0,1
+Bistra voda,Leb I Sol,0.488,0.407,0,-10.603,1,0.0316,0.268,0.634,0.261,0.0466,83.94,2009,Bosnia and Herzegovina,Bosnian,Ballad,Male,1,0,0,5,3.0,0,0,1,0,0,0,1,0,0,1
+Lijepa Tena,Razni Izvođači,0.585,0.694,1,-4.103,0,0.0312,0.555,9.63e-05,0.0771,0.427,116.104,2009,Croatia,Croatian,Ballad,Mix,2,0,4,0,13.0,0,0,0,0,0,0,1,0,0,0
+Et Cetera,Looni,0.794,0.607,1,-5.317,1,0.197,0.0389,2.85e-05,0.112,0.275,148.076,2009,Ireland,English,Rock,Female,1,0,0,3,11.0,1,0,0,1,0,1,0,0,0,0
+Probka,Mirfərid Zirəli,0.853,0.915,5,-5.549,1,0.0947,0.719,3.32e-05,0.143,0.962,111.072,2009,Latvia,Russian,Pop,Mix,3,0,0,3,19.0,0,0,0,0,1,0,0,0,0,0
+Cipela,"Milan Nikolić, Balkan Beat Orchestra, Grand Production",0.821,0.959,1,-2.331,1,0.0752,0.0161,0.0035,0.0909,0.897,140.039,2009,Serbia,Serbian,Traditional,Male,1,4,0,1,10.0,0,0,1,0,0,0,0,1,0,1
+I Don't Wanna Leave,RÜFÜS DU SOL,0.528,0.608,2,-7.071,0,0.0283,0.0364,0.0194,0.112,0.0946,144.973,2009,Poland,English,Ballad,Female,1,2,3,0,12.0,1,0,0,1,0,0,1,0,0,0
+Fairytale,Alexander Rybak,0.573,0.784,2,-5.359,0,0.0293,0.61,3.89e-05,0.278,0.655,107.991,2009,Norway,English,Traditional,Male,1,3,2,0,1.0,1,0,1,0,0,0,0,1,0,1
+Firefly,Owl City,0.512,0.662,3,-6.797,1,0.0439,0.0275,0.0,0.118,0.472,180.114,2009,Cyprus,English,Ballad,Female,1,0,5,0,14.0,1,0,0,1,0,0,1,0,0,0
+Le? tmou,"Boulevard Pacific, Thomas Darelid, Henrik Janson",0.678,0.402,1,-13.008,1,0.0432,0.853,0.869,0.131,0.417,79.963,2009,Slovakia,Slovak,Ballad,Mix,2,0,0,2,18.0,0,0,0,0,0,0,1,0,0,0
+Believe Again,Saint Aqours Snow,0.489,0.907,8,-5.214,1,0.0684,0.00017,0.0,0.205,0.465,140.036,2009,Denmark,English,Rock,Male,1,0,0,5,8.0,1,0,1,0,0,1,0,0,0,1
+Love Symphony,John Williams,0.225,0.306,2,-16.153,0,0.0398,0.584,0.859,0.106,0.0537,92.732,2009,Slovenia,"English,ï¿½Slovene",Pop,Female,1,0,0,4,16.0,0,1,0,1,1,0,0,0,0,0
+Dance with Me,"CORBAL, Shiloh Dynasty, itssvd",0.593,0.275,6,-15.25,0,0.0638,0.816,0.0115,0.108,0.363,114.82,2009,Hungary,English,Pop,Male,1,3,2,0,15.0,1,0,1,0,1,0,0,0,0,0
+Always,Daniel Caesar,0.603,0.441,9,-8.178,1,0.0518,0.692,1.46e-06,0.105,0.167,136.137,2009,Azerbaijan,English,Pop,Mix,2,3,0,0,2.0,1,0,0,0,1,0,0,0,0,1
+This Is Our Night,Julee Cruise,0.527,0.256,6,-16.122,0,0.0457,0.741,0.0068,0.0893,0.188,144.336,2009,Greece,English,Dance,Male,1,4,0,0,4.0,1,0,1,0,0,0,0,0,1,1
+Love,Keyshia Cole,0.688,0.519,5,-4.285,1,0.0283,0.064,0.0,0.1,0.318,116.714,2009,Lithuania,"English, Russian",Ballad,Male,1,0,3,1,9.0,0,1,1,0,0,0,1,0,0,1
+Hora din Moldova,Formatia Diamond Galati,0.498,0.693,3,-10.311,0,0.239,0.349,0.0,0.584,0.681,180.336,2009,Moldova,"Romanian, English",Traditional,Female,1,4,1,0,5.0,0,1,0,1,0,0,0,1,0,1
+Carry Me in Your Dreams,Kejsi Tola,0.683,0.665,8,-8.405,0,0.0499,0.00287,0.0,0.0839,0.667,127.968,2009,Albania,English,Dance,Female,1,3,2,0,7.0,1,0,0,1,0,0,0,0,1,1
+Be My Valentine! (Anti-Crisis Girl),Jack Hartmann,0.65,0.855,1,-7.344,0,0.0349,0.0735,0.0,0.0811,0.744,105.006,2009,Ukraine,English,Pop,Female,1,5,0,0,6.0,1,0,0,1,1,0,0,0,0,1
+Randajad,Urban Symphony,0.687,0.716,5,-5.997,0,0.0447,0.0318,0.0,0.329,0.642,123.905,2009,Estonia,Estonian,Ballad,Female,1,0,2,3,3.0,0,0,0,1,0,0,1,0,0,1
+Shine,Rihanna,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,2009,Netherlands,English,Pop,Male,3,0,3,0,17.0,1,0,1,0,1,0,0,0,0,0
