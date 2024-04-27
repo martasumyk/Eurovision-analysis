@@ -12,3 +12,7 @@ After that, Spotify API was applied to gather song characteristics. You can find
 Explanatory data analysis you can find in explanatory_data_analysis.ipynb
 
 After helding EDA, we cleaned our dataset for more comfortable using. You can find code in cleaning_dataset.ipynb. Resulting dataset is preprocessed_data.csv
+
+## Methods 
+
+Selecting model using AIC in selecting_model.ipynb (written in R)
