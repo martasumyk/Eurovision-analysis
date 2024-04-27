@@ -15,4 +15,6 @@ After helding EDA, we cleaned our dataset for more comfortable using. You can fi
 
 ## Methods 
 
+Testing significance of countries, years, genders, styles using Likalihood Ration Test in testing_significance.ipynb
+
 Selecting model using AIC in selecting_model.ipynb (written in R)
